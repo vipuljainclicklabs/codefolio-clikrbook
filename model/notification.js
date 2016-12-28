@@ -55,7 +55,7 @@ const getNotificationInfo = function (filters, informationRequired, mustFetchAll
 
     if (filters[notificationFieldmap.id]) {
         if (filters[notificationFieldmap.id].length % 2) {
-            deferred.reject(mConstants.errors.violation.THE_ID_IS_INVALID.customMessage);
+            deferred.reject(mConstants.errors.eng.violation.THE_ID_IS_INVALID.customMessage);
             return deferred.promise;
         }
         queryParts.push("`" + notificationFieldmap.id + "`=?");
@@ -67,7 +67,7 @@ const getNotificationInfo = function (filters, informationRequired, mustFetchAll
     }
     if (filters[notificationFieldmap.entityId]) {
         if (filters[notificationFieldmap.entityId].length % 2) {
-            deferred.reject(mConstants.errors.violation.THE_ID_IS_INVALID.customMessage);
+            deferred.reject(mConstants.errors.eng.violation.THE_ID_IS_INVALID.customMessage);
             return deferred.promise;
         }
         queryParts.push("`" + notificationFieldmap.entityId + "`=?");

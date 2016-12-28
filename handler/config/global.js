@@ -16,8 +16,8 @@ const membershipFetcher = function (dataFromRequest, finCalBck) {
     let membershipFetchPromise = membershipModel.getMembershipInfo(filters, ['id', 'name', 'ammountValue', 'ammountMeasuredInUnit']);
     membershipFetchPromise.then(function (memberships) {
         if (memberships === false) {
-            return finCalBck(Boom.create(mConstants.errors.notFound.NO_MEMBERSHIP_MATCH_THE_QUERY.statusCode,
-                mConstants.errors.notFound.NO_MEMBERSHIP_MATCH_THE_QUERY.customMessage));
+            return finCalBck(Boom.create(mConstants.errors.eng.notFound.NO_MEMBERSHIP_MATCH_THE_QUERY.statusCode,
+                mConstants.errors.eng.notFound.NO_MEMBERSHIP_MATCH_THE_QUERY.customMessage));
         }
         return finCalBck(null, {
             membershipTypes: memberships

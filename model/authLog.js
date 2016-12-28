@@ -55,7 +55,7 @@ const getAuthLogInfo = function (filters, informationRequired, mustFetchAll) {
 
     if (filters[authLogFieldmap.id]) {
         if (filters[authLogFieldmap.id].length % 2) {
-            deferred.reject(mConstants.errors.violation.THE_ID_IS_INVALID.customMessage);
+            deferred.reject(mConstants.errors.eng.violation.THE_ID_IS_INVALID.customMessage);
             return deferred.promise;
         }
         queryParts.push("`" + authLogFieldmap.id + "`=?");
@@ -64,7 +64,7 @@ const getAuthLogInfo = function (filters, informationRequired, mustFetchAll) {
 
     if (filters[authLogFieldmap.entityId]) {
         if (filters[authLogFieldmap.entityId].length % 2) {
-            deferred.reject(mConstants.errors.violation.THE_ID_IS_INVALID.customMessage);
+            deferred.reject(mConstants.errors.eng.violation.THE_ID_IS_INVALID.customMessage);
             return deferred.promise;
         }
         queryParts.push("`" + authLogFieldmap.entityId + "`=?");
