@@ -1,5 +1,4 @@
-
-
+require( "schema/mysql/languages" );
 const config          = require( "config" );
 const dbConfig        = config.db;
 const mysqlConfig     = dbConfig.mysqlConfig;
@@ -88,7 +87,6 @@ if ( process.env[ 'PREPARE_TABLES' ] == 'true' )
 				} ,
 			function ( mycbc )
 				{
-					require( "schema/mysql/languages" );
 					return mycbc();
 				}
 

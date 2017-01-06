@@ -248,7 +248,6 @@ global.setValueMessage = function ( data , mycbc )
 							}
 					}
 			}
-		console.log(message);
 		return mycbc( 'success in message creation' );
 	}
 module.exports = {

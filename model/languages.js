@@ -150,7 +150,7 @@ const getLanguages = function ( filters , informationRequired , mustFetchAll )
 			{
 				if ( filters[ languageSchema.fieldMap.id ].length % 2 )
 					{
-						deferred.reject( mConstants.errors.eng.violation.THE_ID_IS_INVALID.customMessage );
+						deferred.reject( messages.errors.eng.violation.THE_ID_IS_INVALID.customMessage );
 						return deferred.promise;
 					}
 				queryParts.push( "`" + languageSchema.fieldMap.id + "`=?" );

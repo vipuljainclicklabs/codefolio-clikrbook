@@ -55,7 +55,7 @@ const getPaymentCardInfo = function (filters, informationRequired, mustFetchAll)
 
     if (filters[paymentCardFieldmap.id]) {
         if (filters[paymentCardFieldmap.id].length % 2) {
-            deferred.reject(mConstants.errors.eng.violation.THE_ID_IS_INVALID.customMessage);
+            deferred.reject(messages.errors.eng.violation.THE_ID_IS_INVALID.customMessage);
             return deferred.promise;
         }
         queryParts.push("`" + paymentCardFieldmap.id + "`=?");
@@ -64,7 +64,7 @@ const getPaymentCardInfo = function (filters, informationRequired, mustFetchAll)
 
     if (filters[paymentCardFieldmap.entityId]) {
         if (filters[paymentCardFieldmap.entityId].length % 2) {
-            deferred.reject(mConstants.errors.eng.violation.THE_ID_IS_INVALID.customMessage);
+            deferred.reject(messages.errors.eng.violation.THE_ID_IS_INVALID.customMessage);
             return deferred.promise;
         }
         queryParts.push("`" + paymentCardFieldmap.entityId + "`=?");

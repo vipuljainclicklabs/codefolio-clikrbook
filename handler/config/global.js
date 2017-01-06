@@ -28,8 +28,8 @@ const membershipFetcher = function ( dataFromRequest , finCalBck )
 		                      {
 			                      if ( memberships === false )
 				                      {
-					                      return finCalBck( Boom.create( mConstants.errors.eng.notFound.NO_MEMBERSHIP_MATCH_THE_QUERY.statusCode ,
-						                       mConstants.errors.eng.notFound.NO_MEMBERSHIP_MATCH_THE_QUERY.customMessage ) );
+					                      return finCalBck( Boom.create( messages.errors.eng.notFound.NO_MEMBERSHIP_MATCH_THE_QUERY.statusCode ,
+						                       messages.errors.eng.notFound.NO_MEMBERSHIP_MATCH_THE_QUERY.customMessage ) );
 				                      }
 			                      return finCalBck( null , {
 				                      membershipTypes : memberships
