@@ -1,13 +1,14 @@
 'use strict';
 
 const mysqlConfig = {
-    host: '127.0.0.1',
-    database: 'flowburDevelopment',
-    password: 'j07C5RsmflowburDevelopmentyrG94bhx',
-    user: 'flowburDevelopment',
-    debug: false,
-    multipleStatements: true
+	host :               'localhost' ,
+	database :           'flowburDevelopment' ,
+	password :           'dixit.sharma@click-labs.com' ,
+	user :               'root' ,
+	debug :              false ,
+	port :               3306 ,
+	multipleStatements : true
 };
-module.exports = {
-    mysqlConfig: mysqlConfig
+module.exports    = {
+	mysqlConfig : mysqlConfig
 };
