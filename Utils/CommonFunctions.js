@@ -551,7 +551,20 @@ let isPointInsidePolygon = function (lat, long, array) {
         return returnObject;
     }
 };
+/**
+ * Get current client(Browser) time w.r.t zone.
+ * @param timezone
+ * @timeZoneFormat: moment.tz.names()
+ * @returns {moment}
+ */
+const getClientTimeAccToZone=function(timezone)
+    {
+//console.log('TimeZone:--->>>>',moment.tz.names());
+        var zone=momentZone.tz(moment().toDate().getTime(),timezone).format('YYYY-MM-DDTHH:mm:ss');
+        return moment(zone);
+    }
 module.exports = {
+    getClientTimeAccToZone:getClientTimeAccToZone,
     isPointInsidePolygon: isPointInsidePolygon,
     awsDirectUploadViabuffer: awsDirectUploadViabuffer,
     hashPasswordUsingBcrypt: hashPasswordUsingBcrypt,

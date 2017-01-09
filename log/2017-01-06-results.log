@@ -1,0 +1,786 @@
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:05:10 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:05:10 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:05:10 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:08:10 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:08:10 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:08:10 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:10:54 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:10:55 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:10:55 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:21:14 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:21:14 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:21:15 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:43:17 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:43:17 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:43:18 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:48:04 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:48:04 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:48:04 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:48:04 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:49:03 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:50:03 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:50:26 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:50:26 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:50:26 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:50:26 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:51:25 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:52:25 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:53:26 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:53:26 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:53:26 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:53:26 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:54:25 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:55:25 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:56:25 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:57:25 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:58:24 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:58:25 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:58:25 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:58:25 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:58:34 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:58:34 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:58:34 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:58:34 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:59:33 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:00:33 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:01:33 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:02:33 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:03:19 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:03:20 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:03:20 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:03:20 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:03:23 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:03:23 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:03:23 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:03:23 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:04:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:05:22 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:06:12 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:06:12 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:06:13 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:06:13 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:06:15 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:06:15 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:06:15 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:06:15 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:07:14 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:08:14 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:08:46 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:08:47 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:08:47 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:08:47 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:08:50 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:08:50 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:08:50 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:08:50 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:09:49 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:16:04 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:16:04 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:16:04 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:16:04 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:16:15 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:16:16 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:16:16 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:16:16 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:17:15 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:17:24 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:17:25 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:17:25 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:17:25 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:17:31 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:17:31 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:17:31 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:17:31 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:18:30 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:19:30 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:20:30 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:21:30 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:22:30 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:23:30 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:24:02 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:24:02 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:24:03 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:24:03 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:24:07 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:24:07 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:24:07 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:24:07 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:25:06 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:26:06 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:26:19 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:26:19 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:26:19 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:26:19 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:26:22 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:26:22 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:26:22 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:26:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:27:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:28:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:29:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:30:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:31:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:32:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:33:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:34:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:35:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:36:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:37:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:38:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:39:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:40:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:41:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:42:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:43:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:44:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:45:22 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:46:08 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:46:08 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:46:08 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:46:08 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:46:13 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:46:13 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:46:13 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:46:13 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:47:12 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:48:12 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:49:12 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:50:12 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:51:12 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:51:58 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:51:59 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:51:59 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:51:59 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:52:58 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:53:58 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:54:25 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:54:25 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:54:25 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:54:25 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:55:24 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:56:24 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:57:24 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:58:24 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:59:24 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:00:24 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:01:24 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:02:07 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:02:07 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:02:07 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:02:07 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:03:06 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:03:53 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:03:54 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:03:54 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:03:54 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:04:53 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:05:53 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:06:53 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:07:53 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:08:53 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:09:53 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:10:53 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:11:53 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:12:47 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:12:47 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:12:47 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:12:47 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:13:48 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:13:48 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:13:48 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:13:48 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:14:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:15:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:16:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:17:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:18:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:19:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:20:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:21:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:22:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:23:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:24:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:25:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:26:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:27:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:28:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:29:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:30:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:31:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:32:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:33:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:34:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:35:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:36:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:37:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:38:47 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:39:43 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:39:43 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:39:43 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:39:43 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:40:33 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:40:34 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:40:34 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:40:34 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:41:28 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:41:29 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:41:29 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:41:29 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:42:13 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:42:14 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:42:14 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:42:14 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:43:13 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:44:09 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:44:10 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:44:10 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:44:10 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:45:09 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:45:27 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:45:28 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:45:28 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:45:28 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:46:13 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:46:13 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:46:13 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:46:13 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:47:12 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:48:12 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:49:12 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:49:48 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:49:48 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:49:48 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:49:48 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:50:48 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:51:48 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:52:40 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:52:40 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:52:40 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:52:40 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:53:36 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:53:37 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:53:37 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:53:37 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:53:58 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:53:58 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:53:58 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:53:58 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:54:57 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:55:57 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:56:57 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:57:57 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:58:57 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:59:57 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:00:57 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:01:57 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:02:57 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:03:57 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:04:57 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:05:57 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:06:57 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:07:57 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:08:57 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:09:57 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:10:57 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:11:51 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:11:52 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:11:52 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:11:52 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:12:51 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:13:31 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:13:32 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:13:32 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:13:32 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:14:31 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:15:31 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:16:03 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:16:04 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:16:04 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:16:04 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:17:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:18:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:19:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:20:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:21:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:22:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:23:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:24:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:25:03 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.646Z '127.0.0.1: GET /documentation --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.735Z '127.0.0.1: GET /swaggerui/css/typography.css --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.741Z '127.0.0.1: GET /swaggerui/css/reset.css --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.746Z '127.0.0.1: GET /swaggerui/css/screen.css --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.748Z '127.0.0.1: GET /swaggerui/lib/jquery.slideto.min.js --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.758Z '127.0.0.1: GET /swaggerui/lib/jquery.wiggle.min.js --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.769Z '127.0.0.1: GET /swaggerui/lib/jquery-1.8.0.min.js --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.785Z '127.0.0.1: GET /swaggerui/lib/jquery.ba-bbq.min.js --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.798Z '127.0.0.1: GET /swaggerui/lib/js-yaml.min.js --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.803Z '127.0.0.1: GET /swaggerui/lib/lodash.min.js --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.809Z '127.0.0.1: GET /swaggerui/lib/handlebars-2.0.0.js --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.811Z '127.0.0.1: GET /swaggerui/lib/backbone-min.js --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.829Z '127.0.0.1: GET /swaggerui/lib/highlight.7.3.pack.js --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.862Z '127.0.0.1: GET /swaggerui/lib/marked.js --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.865Z '127.0.0.1: GET /swaggerui/extend.js --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.866Z '127.0.0.1: GET /swaggerui/lib/swagger-oauth.js --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.878Z '127.0.0.1: GET /swaggerui/lib/jsoneditor.min.js --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.880Z '127.0.0.1: GET /swaggerui/lang/translator.js --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.892Z '127.0.0.1: GET /swaggerui/lang/en.js --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:00.907Z '127.0.0.1: GET /swaggerui/css/print.css --> 200'","timestamp":"12:26:00 PM"}
+{"level":"info","message":"2017-01-06T06:56:01.028Z '127.0.0.1: GET /swaggerui/swagger-ui.js --> 200'","timestamp":"12:26:01 PM"}
+{"level":"info","message":"2017-01-06T06:56:01.235Z '127.0.0.1: GET /swaggerui/images/logo_small.png --> 200'","timestamp":"12:26:01 PM"}
+{"level":"info","message":"2017-01-06T06:56:01.242Z '127.0.0.1: GET /swaggerui/fonts/DroidSans-Bold.ttf --> 200'","timestamp":"12:26:01 PM"}
+{"level":"info","message":"2017-01-06T06:56:01.263Z '127.0.0.1: GET /swaggerui/fonts/DroidSans.ttf --> 200'","timestamp":"12:26:01 PM"}
+{"level":"info","message":"2017-01-06T06:56:01.323Z '127.0.0.1: GET /swagger.json --> 200'","timestamp":"12:26:01 PM"}
+{"level":"info","message":"2017-01-06T06:56:01.330Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 200'","timestamp":"12:26:01 PM"}
+{"level":"info","message":"2017-01-06T06:56:01.434Z '127.0.0.1: GET /swaggerui/images/favicon-32x32.png --> 200'","timestamp":"12:26:01 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:26:03 PM"}
+{"level":"info","message":"2017-01-06T06:56:03.925Z '127.0.0.1: GET /swaggerui/images/throbber.gif --> 200'","timestamp":"12:26:03 PM"}
+{"level":"info","message":"2017-01-06T06:56:03.972Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304'","timestamp":"12:26:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:27:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:28:03 PM"}
+{"level":"info","message":"2017-01-06T06:58:09.244Z '127.0.0.1: POST /config/updateMessages --> 400'","timestamp":"12:28:09 PM"}
+{"level":"info","message":"2017-01-06T06:58:17.802Z '127.0.0.1: POST /config/updateMessages --> 400'","timestamp":"12:28:17 PM"}
+{"level":"info","message":"2017-01-06T06:58:17.836Z '127.0.0.1: POST /config/updateMessages --> 400'","timestamp":"12:28:17 PM"}
+{"level":"info","message":"2017-01-06T06:58:38.954Z '127.0.0.1: POST /config/updateMessages --> 400'","timestamp":"12:28:38 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:29:03 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:30:03 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:30:05 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:30:06 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:30:06 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:30:06 PM"}
+{"level":"info","message":"2017-01-06T07:00:21.821Z '127.0.0.1: GET /documentation --> 200'","timestamp":"12:30:21 PM"}
+{"level":"info","message":"2017-01-06T07:00:21.886Z '127.0.0.1: GET /swaggerui/css/typography.css --> 304'","timestamp":"12:30:21 PM"}
+{"level":"info","message":"2017-01-06T07:00:21.893Z '127.0.0.1: GET /swaggerui/css/reset.css --> 304'","timestamp":"12:30:21 PM"}
+{"level":"info","message":"2017-01-06T07:00:21.897Z '127.0.0.1: GET /swaggerui/css/screen.css --> 304'","timestamp":"12:30:21 PM"}
+{"level":"info","message":"2017-01-06T07:00:21.902Z '127.0.0.1: GET /swaggerui/lib/jquery.slideto.min.js --> 304'","timestamp":"12:30:21 PM"}
+{"level":"info","message":"2017-01-06T07:00:21.906Z '127.0.0.1: GET /swaggerui/lib/jquery.wiggle.min.js --> 304'","timestamp":"12:30:21 PM"}
+{"level":"info","message":"2017-01-06T07:00:21.916Z '127.0.0.1: GET /swaggerui/lib/jquery-1.8.0.min.js --> 304'","timestamp":"12:30:21 PM"}
+{"level":"info","message":"2017-01-06T07:00:21.932Z '127.0.0.1: GET /swaggerui/lib/jquery.ba-bbq.min.js --> 304'","timestamp":"12:30:21 PM"}
+{"level":"info","message":"2017-01-06T07:00:21.935Z '127.0.0.1: GET /swaggerui/lib/handlebars-2.0.0.js --> 304'","timestamp":"12:30:21 PM"}
+{"level":"info","message":"2017-01-06T07:00:21.937Z '127.0.0.1: GET /swaggerui/lib/js-yaml.min.js --> 304'","timestamp":"12:30:21 PM"}
+{"level":"info","message":"2017-01-06T07:00:21.951Z '127.0.0.1: GET /swaggerui/lib/lodash.min.js --> 304'","timestamp":"12:30:21 PM"}
+{"level":"info","message":"2017-01-06T07:00:21.954Z '127.0.0.1: GET /swaggerui/lib/backbone-min.js --> 304'","timestamp":"12:30:21 PM"}
+{"level":"info","message":"2017-01-06T07:00:21.982Z '127.0.0.1: GET /swaggerui/lib/highlight.7.3.pack.js --> 304'","timestamp":"12:30:21 PM"}
+{"level":"info","message":"2017-01-06T07:00:21.987Z '127.0.0.1: GET /swaggerui/lib/marked.js --> 304'","timestamp":"12:30:21 PM"}
+{"level":"info","message":"2017-01-06T07:00:22.002Z '127.0.0.1: GET /swaggerui/lib/jsoneditor.min.js --> 304'","timestamp":"12:30:22 PM"}
+{"level":"info","message":"2017-01-06T07:00:22.009Z '127.0.0.1: GET /swaggerui/lib/swagger-oauth.js --> 304'","timestamp":"12:30:22 PM"}
+{"level":"info","message":"2017-01-06T07:00:22.013Z '127.0.0.1: GET /swaggerui/extend.js --> 304'","timestamp":"12:30:22 PM"}
+{"level":"info","message":"2017-01-06T07:00:22.018Z '127.0.0.1: GET /swaggerui/lang/en.js --> 304'","timestamp":"12:30:22 PM"}
+{"level":"info","message":"2017-01-06T07:00:22.025Z '127.0.0.1: GET /swaggerui/lang/translator.js --> 304'","timestamp":"12:30:22 PM"}
+{"level":"info","message":"2017-01-06T07:00:22.047Z '127.0.0.1: GET /swaggerui/css/print.css --> 304'","timestamp":"12:30:22 PM"}
+{"level":"info","message":"2017-01-06T07:00:22.059Z '127.0.0.1: GET /swaggerui/swagger-ui.js --> 304'","timestamp":"12:30:22 PM"}
+{"level":"info","message":"2017-01-06T07:00:22.426Z '127.0.0.1: GET /swaggerui/images/logo_small.png --> 304'","timestamp":"12:30:22 PM"}
+{"level":"info","message":"2017-01-06T07:00:22.444Z '127.0.0.1: GET /swaggerui/fonts/DroidSans-Bold.ttf --> 304'","timestamp":"12:30:22 PM"}
+{"level":"info","message":"2017-01-06T07:00:22.457Z '127.0.0.1: GET /swaggerui/fonts/DroidSans.ttf --> 304'","timestamp":"12:30:22 PM"}
+{"level":"info","message":"2017-01-06T07:00:22.573Z '127.0.0.1: GET /swagger.json --> 200'","timestamp":"12:30:22 PM"}
+{"level":"info","message":"2017-01-06T07:00:22.576Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304'","timestamp":"12:30:22 PM"}
+{"level":"info","message":"2017-01-06T07:00:22.773Z '127.0.0.1: GET /swaggerui/images/throbber.gif --> 304'","timestamp":"12:30:22 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:31:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:32:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:33:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:34:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:35:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:36:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:37:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:38:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:39:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:40:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:41:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:42:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:43:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:44:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:45:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:46:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:47:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:48:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:49:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:50:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:51:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:52:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:53:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:54:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:55:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:56:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:57:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:58:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:59:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:00:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:01:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:02:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:03:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:04:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:05:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:06:05 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:06:52 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:06:52 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:06:52 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:06:52 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:07:51 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:08:51 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:09:30 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:09:31 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:09:31 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:09:31 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:10:26 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:10:27 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:10:27 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:10:27 PM"}
+{"level":"info","message":"2017-01-06T07:40:31.717Z '127.0.0.1: POST /config/updateMessages --> 200'","timestamp":"1:10:31 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:11:26 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:12:26 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:13:26 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:13:39 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:13:39 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:13:39 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:13:39 PM"}
+{"level":"info","message":"2017-01-06T07:44:24.583Z '127.0.0.1: POST /config/updateMessages --> 200'","timestamp":"1:14:24 PM"}
+{"level":"info","message":"2017-01-06T07:44:24.607Z '127.0.0.1: POST /config/updateMessages --> 200'","timestamp":"1:14:24 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:14:38 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:15:38 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:16:38 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:17:38 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:17:42 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:17:43 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:17:43 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:17:43 PM"}
+{"level":"info","message":"2017-01-06T07:48:05.200Z '127.0.0.1: POST /config/updateMessages --> 200'","timestamp":"1:18:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:18:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:19:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:20:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:21:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:22:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:23:41 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:24:41 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:25:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:26:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:27:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:28:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:29:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:30:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:31:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:32:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:33:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:34:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:35:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:36:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:37:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:38:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:39:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:40:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:41:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:42:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:43:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:44:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:45:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:46:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:47:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:48:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:49:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:50:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:51:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:52:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:53:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:54:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:55:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:56:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:57:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:58:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:59:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:00:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:01:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:02:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:03:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:04:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:05:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:06:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:07:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:08:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:09:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:10:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:11:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:12:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:13:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:14:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:15:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:16:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:17:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:18:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:19:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:20:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:21:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:22:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:23:42 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.281Z '127.0.0.1: GET /documentation --> 200'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.324Z '127.0.0.1: GET /swaggerui/css/typography.css --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.330Z '127.0.0.1: GET /swaggerui/css/reset.css --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.332Z '127.0.0.1: GET /swaggerui/css/screen.css --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.334Z '127.0.0.1: GET /swaggerui/lib/jquery.slideto.min.js --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.336Z '127.0.0.1: GET /swaggerui/lib/jquery.wiggle.min.js --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.371Z '127.0.0.1: GET /swaggerui/lib/jquery-1.8.0.min.js --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.385Z '127.0.0.1: GET /swaggerui/lib/jquery.ba-bbq.min.js --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.397Z '127.0.0.1: GET /swaggerui/lib/handlebars-2.0.0.js --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.401Z '127.0.0.1: GET /swaggerui/lib/js-yaml.min.js --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.404Z '127.0.0.1: GET /swaggerui/lib/lodash.min.js --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.407Z '127.0.0.1: GET /swaggerui/lib/backbone-min.js --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.417Z '127.0.0.1: GET /swaggerui/lib/highlight.7.3.pack.js --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.431Z '127.0.0.1: GET /swaggerui/lib/marked.js --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.438Z '127.0.0.1: GET /swaggerui/lib/swagger-oauth.js --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.447Z '127.0.0.1: GET /swaggerui/lib/jsoneditor.min.js --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.448Z '127.0.0.1: GET /swaggerui/extend.js --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.454Z '127.0.0.1: GET /swaggerui/lang/translator.js --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.458Z '127.0.0.1: GET /swaggerui/lang/en.js --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.469Z '127.0.0.1: GET /swaggerui/css/print.css --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.478Z '127.0.0.1: GET /swaggerui/swagger-ui.js --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.765Z '127.0.0.1: GET /swaggerui/images/logo_small.png --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.769Z '127.0.0.1: GET /swaggerui/fonts/DroidSans-Bold.ttf --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.772Z '127.0.0.1: GET /swaggerui/fonts/DroidSans.ttf --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.830Z '127.0.0.1: GET /swagger.json --> 200'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.838Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 200'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:18.916Z '127.0.0.1: GET /swaggerui/images/favicon-32x32.png --> 304'","timestamp":"2:24:18 PM"}
+{"level":"info","message":"2017-01-06T08:54:19.015Z '127.0.0.1: GET /swaggerui/images/throbber.gif --> 304'","timestamp":"2:24:19 PM"}
+{"level":"info","message":"2017-01-06T08:54:21.223Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304'","timestamp":"2:24:21 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:24:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:25:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:26:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:27:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:28:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:29:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:30:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:31:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:32:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:33:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:34:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:35:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:36:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:37:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:38:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:39:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:40:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:41:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:42:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:43:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:44:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:45:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:46:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:47:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:48:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:49:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:50:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:51:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:52:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:53:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:54:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:55:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:56:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:57:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:58:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:59:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:00:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:01:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:02:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:03:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:04:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:05:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:06:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:07:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:08:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:09:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:10:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:11:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:12:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:13:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:14:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:15:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:16:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:17:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:18:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:19:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:20:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:21:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:22:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:23:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:24:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:25:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:26:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:27:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:28:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:29:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:30:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:31:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:32:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:33:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:34:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:35:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:36:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:37:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:38:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:39:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:40:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:41:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:42:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:43:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:44:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:45:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:46:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:47:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:48:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:49:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:50:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:51:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:52:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:53:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:54:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:55:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:56:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:57:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:58:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:59:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:00:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:01:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:02:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:03:42 PM"}
+{"level":"info","message":"2017-01-06T10:34:20.576Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304'","timestamp":"4:04:20 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:04:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:05:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:06:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:07:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:08:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:09:42 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:10:31 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:10:31 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:10:32 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:10:32 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:13:55 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:13:55 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:13:55 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:13:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:14:54 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:15:08 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:15:09 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:15:09 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:15:09 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:26:05 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:26:06 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:26:06 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:26:06 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:28:31 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:28:31 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:28:31 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:28:31 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:29:54 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:29:54 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:29:54 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:29:54 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:30:06 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:30:06 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:30:06 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:30:06 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:31:54 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:31:55 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:31:55 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:31:55 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:32:08 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:32:09 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:32:09 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:32:09 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:33:17 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:33:17 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:33:17 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:33:17 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:33:51 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:33:51 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:33:51 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:33:51 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:34:36 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:34:36 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:34:36 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:34:36 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:34:56 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:34:57 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:34:57 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:34:57 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:41:30 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:41:31 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:41:31 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:41:31 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:41:35 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:41:36 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:41:36 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:41:36 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:42:24 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:42:24 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:42:24 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:42:24 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:43:23 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:44:24 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:45:24 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:46:23 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:47:24 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:48:24 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:52:49 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:52:49 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:52:49 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:52:49 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:52:56 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:52:57 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:52:57 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:52:57 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:53:56 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:54:56 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:55:56 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:56:56 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:57:56 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:58:56 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:59:56 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:00:36 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:00:37 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:00:37 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:00:37 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:03:51 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:03:52 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:03:52 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:03:52 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:04:46 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:04:46 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:04:46 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:04:46 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:04:57 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:04:58 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:04:58 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:04:58 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:05:32 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:05:32 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:05:32 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:05:32 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:05:40 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:05:41 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:05:41 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:05:41 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:06:40 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:07:40 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:07:48 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:07:48 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:07:49 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:07:49 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:08:27 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:08:28 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:08:28 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:08:28 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:08:54 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:08:55 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:08:55 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:08:55 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:54:26 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:54:26 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:54:26 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:54:26 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:55:25 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:56:25 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:57:25 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:58:25 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:59:25 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:00:25 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"6:00:43 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"6:00:44 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"6:00:44 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"6:00:44 PM"}

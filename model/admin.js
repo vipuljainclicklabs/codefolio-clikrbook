@@ -55,7 +55,7 @@ const getAdmins = function (filters, informationRequired, mustFetchAll) {
     let queryParts = [];
     if (filters[adminFieldmap.id]) {
         if (filters[adminFieldmap.id].length % 2) {
-            deferred.reject(mConstants.errors.eng.violation.THE_ID_IS_INVALID.customMessage);
+            deferred.reject(messages.errors.eng.violation.THE_ID_IS_INVALID.customMessage);
             return deferred.promise;
         }
         queryParts.push("`" + adminFieldmap.id + "`=?");
@@ -95,9 +95,9 @@ const save = function (adminInfoObject) {
     let inserts = [];
     let placeHolders = [];
     fieldsToInsert.push("`" + adminFieldmap.id + "`");
-    fieldsToInsert.push("`" + adminFieldmap.intId + "`");
-    placeHolders.push("?");
-    inserts.push("NULL");
+//    fieldsToInsert.push("`" + adminFieldmap.intId + "`");
+//    placeHolders.push("?");
+//    inserts.push("NULL");
     //
     if (adminInfoObject.userName) {
         fieldsToInsert.push("`" + adminFieldmap.userName + "`");
@@ -120,7 +120,6 @@ const save = function (adminInfoObject) {
     insertionQuery = insertionQuery + fieldsSpecificationString + " VALUES(ordered_uuid(uuid())," + placeHolders.join(",") + ") ";
     let deferred = Q.defer();
     let mQuery = mysql.format(insertionQuery, inserts);
-
     mySqlConnection.beginTransaction(function (err) {
         if (err) {
             return deferred.reject(err.message || err.code + ' ' + err.message);
