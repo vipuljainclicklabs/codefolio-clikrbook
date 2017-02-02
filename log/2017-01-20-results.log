@@ -1,0 +1,578 @@
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:30:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:31:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:32:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:33:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:34:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:35:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:36:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:37:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:38:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:39:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:40:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:41:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:42:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:43:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:44:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:45:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:46:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:47:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:48:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:49:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:50:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:51:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"7:07:38 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"7:11:13 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"7:12:13 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"7:13:13 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"7:14:13 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"7:15:13 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"7:58:04 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"7:58:06 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"7:58:07 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"7:58:07 AM"}
+{"level":"info","message":"2017-01-20T02:28:07.952Z '127.0.0.1: GET /documentation --> 200'","timestamp":"7:58:07 AM"}
+{"level":"info","message":"2017-01-20T02:28:08.159Z '127.0.0.1: GET /swaggerui/css/screen.css --> 304'","timestamp":"7:58:08 AM"}
+{"level":"info","message":"2017-01-20T02:28:08.199Z '127.0.0.1: GET /swaggerui/css/typography.css --> 304'","timestamp":"7:58:08 AM"}
+{"level":"info","message":"2017-01-20T02:28:08.237Z '127.0.0.1: GET /swaggerui/lib/jquery.wiggle.min.js --> 304'","timestamp":"7:58:08 AM"}
+{"level":"info","message":"2017-01-20T02:28:08.280Z '127.0.0.1: GET /swaggerui/lib/jquery.ba-bbq.min.js --> 304'","timestamp":"7:58:08 AM"}
+{"level":"info","message":"2017-01-20T02:28:08.322Z '127.0.0.1: GET /swaggerui/css/reset.css --> 304'","timestamp":"7:58:08 AM"}
+{"level":"info","message":"2017-01-20T02:28:08.350Z '127.0.0.1: GET /swaggerui/lib/handlebars-2.0.0.js --> 304'","timestamp":"7:58:08 AM"}
+{"level":"info","message":"2017-01-20T02:28:08.381Z '127.0.0.1: GET /swaggerui/lib/jquery-1.8.0.min.js --> 304'","timestamp":"7:58:08 AM"}
+{"level":"info","message":"2017-01-20T02:28:08.423Z '127.0.0.1: GET /swaggerui/lib/jquery.slideto.min.js --> 304'","timestamp":"7:58:08 AM"}
+{"level":"info","message":"2017-01-20T02:28:08.440Z '127.0.0.1: GET /swaggerui/lib/js-yaml.min.js --> 304'","timestamp":"7:58:08 AM"}
+{"level":"info","message":"2017-01-20T02:28:08.504Z '127.0.0.1: GET /swaggerui/lib/lodash.min.js --> 304'","timestamp":"7:58:08 AM"}
+{"level":"info","message":"2017-01-20T02:28:08.632Z '127.0.0.1: GET /swaggerui/lib/backbone-min.js --> 304'","timestamp":"7:58:08 AM"}
+{"level":"info","message":"2017-01-20T02:28:08.665Z '127.0.0.1: GET /swaggerui/lib/highlight.7.3.pack.js --> 304'","timestamp":"7:58:08 AM"}
+{"level":"info","message":"2017-01-20T02:28:08.726Z '127.0.0.1: GET /swaggerui/lib/swagger-oauth.js --> 304'","timestamp":"7:58:08 AM"}
+{"level":"info","message":"2017-01-20T02:28:08.768Z '127.0.0.1: GET /swaggerui/lib/marked.js --> 304'","timestamp":"7:58:08 AM"}
+{"level":"info","message":"2017-01-20T02:28:08.800Z '127.0.0.1: GET /swaggerui/lib/jsoneditor.min.js --> 304'","timestamp":"7:58:08 AM"}
+{"level":"info","message":"2017-01-20T02:28:08.980Z '127.0.0.1: GET /swaggerui/extend.js --> 304'","timestamp":"7:58:08 AM"}
+{"level":"info","message":"2017-01-20T02:28:08.995Z '127.0.0.1: GET /swaggerui/lang/translator.js --> 304'","timestamp":"7:58:09 AM"}
+{"level":"info","message":"2017-01-20T02:28:09.015Z '127.0.0.1: GET /swaggerui/lang/en.js --> 304'","timestamp":"7:58:09 AM"}
+{"level":"info","message":"2017-01-20T02:28:09.049Z '127.0.0.1: GET /swaggerui/css/print.css --> 304'","timestamp":"7:58:09 AM"}
+{"level":"info","message":"2017-01-20T02:28:09.213Z '127.0.0.1: GET /swaggerui/swagger-ui.js --> 304'","timestamp":"7:58:09 AM"}
+{"level":"info","message":"2017-01-20T02:28:09.755Z '127.0.0.1: GET /swaggerui/images/logo_small.png --> 304'","timestamp":"7:58:09 AM"}
+{"level":"info","message":"2017-01-20T02:28:09.785Z '127.0.0.1: GET /swaggerui/fonts/DroidSans-Bold.ttf --> 304'","timestamp":"7:58:09 AM"}
+{"level":"info","message":"2017-01-20T02:28:09.800Z '127.0.0.1: GET /swaggerui/fonts/DroidSans.ttf --> 304'","timestamp":"7:58:09 AM"}
+{"level":"info","message":"2017-01-20T02:28:09.998Z '127.0.0.1: GET /swagger.json --> 200'","timestamp":"7:58:10 AM"}
+{"level":"info","message":"2017-01-20T02:28:10.567Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 200'","timestamp":"7:58:10 AM"}
+{"level":"info","message":"2017-01-20T02:28:10.649Z '127.0.0.1: GET /swaggerui/images/favicon-32x32.png --> 304'","timestamp":"7:58:10 AM"}
+{"level":"info","message":"2017-01-20T02:28:20.706Z '127.0.0.1: GET /swaggerui/images/throbber.gif --> 304'","timestamp":"7:58:20 AM"}
+{"level":"info","message":"2017-01-20T02:28:20.863Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304'","timestamp":"7:58:20 AM"}
+{"level":"info","message":"2017-01-20T02:28:47.779Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304'","timestamp":"7:58:47 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"7:59:03 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:29:12 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:29:13 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:29:13 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:29:13 AM"}
+{"level":"info","message":"2017-01-20T03:59:34.351Z '127.0.0.1: GET /views/clickbook --> 404'","timestamp":"9:29:34 AM"}
+{"level":"info","message":"2017-01-20T03:59:34.693Z '127.0.0.1: GET /favicon.ico --> 404'","timestamp":"9:29:34 AM"}
+{"level":"info","message":"2017-01-20T03:59:49.375Z '127.0.0.1: GET /views/clickerbook --> 404'","timestamp":"9:29:49 AM"}
+{"level":"info","message":"2017-01-20T03:59:51.219Z '127.0.0.1: GET /views/clickerbook --> 404'","timestamp":"9:29:51 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:30:11 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:30:51 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:30:53 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:30:53 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:30:53 AM"}
+{"level":"info","message":"2017-01-20T04:00:55.351Z '127.0.0.1: GET /views/clickerbook --> 404'","timestamp":"9:30:55 AM"}
+{"level":"info","message":"2017-01-20T04:01:05.492Z '127.0.0.1: GET /views/clickerbook --> 404'","timestamp":"9:31:05 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:31:32 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:31:34 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:31:34 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:31:34 AM"}
+{"level":"info","message":"2017-01-20T04:01:35.931Z '127.0.0.1: GET /views/clickerbook --> 401'","timestamp":"9:31:35 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:32:31 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:32:40 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:32:41 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:32:41 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:32:41 AM"}
+{"level":"info","message":"2017-01-20T04:02:48.440Z '127.0.0.1: GET /views/clickerbook --> 500'","timestamp":"9:32:48 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:33:39 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:33:47 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:33:48 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:33:48 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:33:48 AM"}
+{"level":"info","message":"2017-01-20T04:03:53.094Z '127.0.0.1: GET /views/clickerbook --> 500'","timestamp":"9:33:53 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:34:45 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:35:45 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:36:45 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:36:53 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:36:55 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:36:55 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:36:55 AM"}
+{"level":"info","message":"2017-01-20T04:07:01.596Z '127.0.0.1: GET /views/clickerbook --> 404'","timestamp":"9:37:01 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:37:52 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:37:54 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:37:54 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:37:54 AM"}
+{"level":"info","message":"2017-01-20T04:08:16.660Z '127.0.0.1: GET /views/clickerbook --> 404'","timestamp":"9:38:16 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:43:29 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:43:30 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:43:31 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:43:31 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:44:18 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:44:19 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:44:19 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:44:19 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:45:17 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:46:12 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:46:14 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:46:14 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:46:14 AM"}
+{"level":"info","message":"2017-01-20T04:16:16.529Z '127.0.0.1: GET /views/clickerbook --> 403'","timestamp":"9:46:16 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:47:07 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:47:08 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:47:08 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:47:08 AM"}
+{"level":"info","message":"2017-01-20T04:17:13.845Z '127.0.0.1: GET / --> 403'","timestamp":"9:47:13 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:48:06 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:48:22 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:48:24 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:48:24 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:48:24 AM"}
+{"level":"info","message":"2017-01-20T04:18:28.824Z '127.0.0.1: GET / --> 404'","timestamp":"9:48:28 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:49:21 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:49:27 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:49:28 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:49:28 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:49:28 AM"}
+{"level":"info","message":"2017-01-20T04:19:30.530Z '127.0.0.1: GET / --> 404'","timestamp":"9:49:30 AM"}
+{"level":"info","message":"2017-01-20T04:19:39.379Z '127.0.0.1: GET / --> 404'","timestamp":"9:49:39 AM"}
+{"level":"info","message":"2017-01-20T04:20:03.414Z '127.0.0.1: GET /documentation --> 200'","timestamp":"9:50:03 AM"}
+{"level":"info","message":"2017-01-20T04:20:03.541Z '127.0.0.1: GET /swaggerui/css/typography.css --> 304'","timestamp":"9:50:03 AM"}
+{"level":"info","message":"2017-01-20T04:20:03.580Z '127.0.0.1: GET /swaggerui/css/screen.css --> 304'","timestamp":"9:50:03 AM"}
+{"level":"info","message":"2017-01-20T04:20:03.589Z '127.0.0.1: GET /swaggerui/css/reset.css --> 304'","timestamp":"9:50:03 AM"}
+{"level":"info","message":"2017-01-20T04:20:03.639Z '127.0.0.1: GET /swaggerui/lib/jquery.slideto.min.js --> 304'","timestamp":"9:50:03 AM"}
+{"level":"info","message":"2017-01-20T04:20:03.652Z '127.0.0.1: GET /swaggerui/lib/jquery-1.8.0.min.js --> 304'","timestamp":"9:50:03 AM"}
+{"level":"info","message":"2017-01-20T04:20:03.682Z '127.0.0.1: GET /swaggerui/lib/jquery.wiggle.min.js --> 304'","timestamp":"9:50:03 AM"}
+{"level":"info","message":"2017-01-20T04:20:03.704Z '127.0.0.1: GET /swaggerui/lib/jquery.ba-bbq.min.js --> 304'","timestamp":"9:50:03 AM"}
+{"level":"info","message":"2017-01-20T04:20:03.731Z '127.0.0.1: GET /swaggerui/lib/handlebars-2.0.0.js --> 304'","timestamp":"9:50:03 AM"}
+{"level":"info","message":"2017-01-20T04:20:03.757Z '127.0.0.1: GET /swaggerui/lib/js-yaml.min.js --> 304'","timestamp":"9:50:03 AM"}
+{"level":"info","message":"2017-01-20T04:20:03.797Z '127.0.0.1: GET /swaggerui/lib/backbone-min.js --> 304'","timestamp":"9:50:03 AM"}
+{"level":"info","message":"2017-01-20T04:20:03.815Z '127.0.0.1: GET /swaggerui/lib/lodash.min.js --> 304'","timestamp":"9:50:03 AM"}
+{"level":"info","message":"2017-01-20T04:20:03.870Z '127.0.0.1: GET /swaggerui/lib/highlight.7.3.pack.js --> 304'","timestamp":"9:50:03 AM"}
+{"level":"info","message":"2017-01-20T04:20:03.894Z '127.0.0.1: GET /swaggerui/lib/marked.js --> 304'","timestamp":"9:50:03 AM"}
+{"level":"info","message":"2017-01-20T04:20:03.933Z '127.0.0.1: GET /swaggerui/lib/jsoneditor.min.js --> 304'","timestamp":"9:50:03 AM"}
+{"level":"info","message":"2017-01-20T04:20:03.961Z '127.0.0.1: GET /swaggerui/extend.js --> 304'","timestamp":"9:50:03 AM"}
+{"level":"info","message":"2017-01-20T04:20:03.979Z '127.0.0.1: GET /swaggerui/lib/swagger-oauth.js --> 304'","timestamp":"9:50:03 AM"}
+{"level":"info","message":"2017-01-20T04:20:04.015Z '127.0.0.1: GET /swaggerui/lang/translator.js --> 304'","timestamp":"9:50:04 AM"}
+{"level":"info","message":"2017-01-20T04:20:04.039Z '127.0.0.1: GET /swaggerui/lang/en.js --> 304'","timestamp":"9:50:04 AM"}
+{"level":"info","message":"2017-01-20T04:20:04.068Z '127.0.0.1: GET /swaggerui/css/print.css --> 304'","timestamp":"9:50:04 AM"}
+{"level":"info","message":"2017-01-20T04:20:04.114Z '127.0.0.1: GET /swaggerui/swagger-ui.js --> 304'","timestamp":"9:50:04 AM"}
+{"level":"info","message":"2017-01-20T04:20:04.583Z '127.0.0.1: GET /swaggerui/images/logo_small.png --> 304'","timestamp":"9:50:04 AM"}
+{"level":"info","message":"2017-01-20T04:20:04.591Z '127.0.0.1: GET /swaggerui/fonts/DroidSans-Bold.ttf --> 304'","timestamp":"9:50:04 AM"}
+{"level":"info","message":"2017-01-20T04:20:04.605Z '127.0.0.1: GET /swaggerui/fonts/DroidSans.ttf --> 304'","timestamp":"9:50:04 AM"}
+{"level":"info","message":"2017-01-20T04:20:04.736Z '127.0.0.1: GET /swagger.json --> 200'","timestamp":"9:50:04 AM"}
+{"level":"info","message":"2017-01-20T04:20:05.116Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304'","timestamp":"9:50:05 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:50:25 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:51:25 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:52:25 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.147Z '127.0.0.1: GET /documentation --> 200'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.270Z '127.0.0.1: GET /swaggerui/css/typography.css --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.282Z '127.0.0.1: GET /swaggerui/css/reset.css --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.309Z '127.0.0.1: GET /swaggerui/css/screen.css --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.343Z '127.0.0.1: GET /swaggerui/lib/jquery-1.8.0.min.js --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.376Z '127.0.0.1: GET /swaggerui/lib/jquery.slideto.min.js --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.404Z '127.0.0.1: GET /swaggerui/lib/jquery.wiggle.min.js --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.437Z '127.0.0.1: GET /swaggerui/lib/jquery.ba-bbq.min.js --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.465Z '127.0.0.1: GET /swaggerui/lib/handlebars-2.0.0.js --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.483Z '127.0.0.1: GET /swaggerui/lib/js-yaml.min.js --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.501Z '127.0.0.1: GET /swaggerui/lib/lodash.min.js --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.549Z '127.0.0.1: GET /swaggerui/lib/backbone-min.js --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.591Z '127.0.0.1: GET /swaggerui/swagger-ui.js --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.614Z '127.0.0.1: GET /swaggerui/lib/highlight.7.3.pack.js --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.643Z '127.0.0.1: GET /swaggerui/lib/jsoneditor.min.js --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.665Z '127.0.0.1: GET /swaggerui/lib/marked.js --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.702Z '127.0.0.1: GET /swaggerui/lib/swagger-oauth.js --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.722Z '127.0.0.1: GET /swaggerui/extend.js --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.734Z '127.0.0.1: GET /swaggerui/lang/translator.js --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.758Z '127.0.0.1: GET /swaggerui/lang/en.js --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:48.783Z '127.0.0.1: GET /swaggerui/css/print.css --> 304'","timestamp":"9:52:48 AM"}
+{"level":"info","message":"2017-01-20T04:22:49.333Z '127.0.0.1: GET /swaggerui/fonts/DroidSans-Bold.ttf --> 304'","timestamp":"9:52:49 AM"}
+{"level":"info","message":"2017-01-20T04:22:49.340Z '127.0.0.1: GET /swaggerui/images/logo_small.png --> 304'","timestamp":"9:52:49 AM"}
+{"level":"info","message":"2017-01-20T04:22:49.348Z '127.0.0.1: GET /swaggerui/fonts/DroidSans.ttf --> 304'","timestamp":"9:52:49 AM"}
+{"level":"info","message":"2017-01-20T04:22:49.441Z '127.0.0.1: GET /swagger.json --> 200'","timestamp":"9:52:49 AM"}
+{"level":"info","message":"2017-01-20T04:22:49.827Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304'","timestamp":"9:52:49 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:53:25 AM"}
+{"level":"info","message":"2017-01-20T04:23:39.239Z '127.0.0.1: GET /swaggerui/images/throbber.gif --> 304'","timestamp":"9:53:39 AM"}
+{"level":"info","message":"2017-01-20T04:23:39.315Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304'","timestamp":"9:53:39 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:54:25 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:55:25 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:57:19 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:57:20 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:57:20 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:57:20 AM"}
+{"level":"info","message":"2017-01-20T04:27:25.188Z '127.0.0.1: GET /documentation --> 200'","timestamp":"9:57:25 AM"}
+{"level":"info","message":"2017-01-20T04:27:25.382Z '127.0.0.1: GET /swaggerui/css/typography.css --> 304'","timestamp":"9:57:25 AM"}
+{"level":"info","message":"2017-01-20T04:27:25.412Z '127.0.0.1: GET /swaggerui/css/reset.css --> 304'","timestamp":"9:57:25 AM"}
+{"level":"info","message":"2017-01-20T04:27:25.483Z '127.0.0.1: GET /swaggerui/css/screen.css --> 304'","timestamp":"9:57:25 AM"}
+{"level":"info","message":"2017-01-20T04:27:25.500Z '127.0.0.1: GET /swaggerui/lib/jquery.slideto.min.js --> 304'","timestamp":"9:57:25 AM"}
+{"level":"info","message":"2017-01-20T04:27:25.573Z '127.0.0.1: GET /swaggerui/lib/jquery.wiggle.min.js --> 304'","timestamp":"9:57:25 AM"}
+{"level":"info","message":"2017-01-20T04:27:25.638Z '127.0.0.1: GET /swaggerui/lib/jquery-1.8.0.min.js --> 304'","timestamp":"9:57:25 AM"}
+{"level":"info","message":"2017-01-20T04:27:25.699Z '127.0.0.1: GET /swaggerui/lib/jquery.ba-bbq.min.js --> 304'","timestamp":"9:57:25 AM"}
+{"level":"info","message":"2017-01-20T04:27:25.736Z '127.0.0.1: GET /swaggerui/lib/handlebars-2.0.0.js --> 304'","timestamp":"9:57:25 AM"}
+{"level":"info","message":"2017-01-20T04:27:25.768Z '127.0.0.1: GET /swaggerui/lib/js-yaml.min.js --> 304'","timestamp":"9:57:25 AM"}
+{"level":"info","message":"2017-01-20T04:27:25.797Z '127.0.0.1: GET /swaggerui/lib/lodash.min.js --> 304'","timestamp":"9:57:25 AM"}
+{"level":"info","message":"2017-01-20T04:27:25.864Z '127.0.0.1: GET /swaggerui/lib/backbone-min.js --> 304'","timestamp":"9:57:25 AM"}
+{"level":"info","message":"2017-01-20T04:27:25.929Z '127.0.0.1: GET /swaggerui/lib/highlight.7.3.pack.js --> 304'","timestamp":"9:57:25 AM"}
+{"level":"info","message":"2017-01-20T04:27:25.955Z '127.0.0.1: GET /swaggerui/lib/marked.js --> 304'","timestamp":"9:57:25 AM"}
+{"level":"info","message":"2017-01-20T04:27:26.009Z '127.0.0.1: GET /swaggerui/lib/swagger-oauth.js --> 304'","timestamp":"9:57:26 AM"}
+{"level":"info","message":"2017-01-20T04:27:26.061Z '127.0.0.1: GET /swaggerui/lib/jsoneditor.min.js --> 304'","timestamp":"9:57:26 AM"}
+{"level":"info","message":"2017-01-20T04:27:26.136Z '127.0.0.1: GET /swaggerui/extend.js --> 304'","timestamp":"9:57:26 AM"}
+{"level":"info","message":"2017-01-20T04:27:26.171Z '127.0.0.1: GET /swaggerui/lang/translator.js --> 304'","timestamp":"9:57:26 AM"}
+{"level":"info","message":"2017-01-20T04:27:26.194Z '127.0.0.1: GET /swaggerui/lang/en.js --> 304'","timestamp":"9:57:26 AM"}
+{"level":"info","message":"2017-01-20T04:27:26.282Z '127.0.0.1: GET /swaggerui/css/print.css --> 304'","timestamp":"9:57:26 AM"}
+{"level":"info","message":"2017-01-20T04:27:26.351Z '127.0.0.1: GET /swaggerui/swagger-ui.js --> 304'","timestamp":"9:57:26 AM"}
+{"level":"info","message":"2017-01-20T04:27:26.820Z '127.0.0.1: GET /swaggerui/images/logo_small.png --> 304'","timestamp":"9:57:26 AM"}
+{"level":"info","message":"2017-01-20T04:27:26.838Z '127.0.0.1: GET /swaggerui/fonts/DroidSans-Bold.ttf --> 304'","timestamp":"9:57:26 AM"}
+{"level":"info","message":"2017-01-20T04:27:26.858Z '127.0.0.1: GET /swaggerui/fonts/DroidSans.ttf --> 304'","timestamp":"9:57:26 AM"}
+{"level":"info","message":"2017-01-20T04:27:27.015Z '127.0.0.1: GET /swagger.json --> 200'","timestamp":"9:57:27 AM"}
+{"level":"info","message":"2017-01-20T04:27:27.477Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 200'","timestamp":"9:57:27 AM"}
+{"level":"info","message":"2017-01-20T04:27:27.550Z '127.0.0.1: GET /swaggerui/images/throbber.gif --> 304'","timestamp":"9:57:27 AM"}
+{"level":"info","message":"2017-01-20T04:27:27.596Z '127.0.0.1: GET /swaggerui/images/favicon-32x32.png --> 304'","timestamp":"9:57:27 AM"}
+{"level":"info","message":"2017-01-20T04:27:31.118Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304'","timestamp":"9:57:31 AM"}
+{"level":"info","message":"2017-01-20T04:27:36.416Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304'","timestamp":"9:57:36 AM"}
+{"level":"info","message":"2017-01-20T04:27:59.619Z '127.0.0.1: POST /insert/signupform?email=donaldtrump%40gmail.com&password=donaldtrump --> 500'","timestamp":"9:57:59 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:58:18 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:58:57 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:58:58 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:58:59 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:58:59 AM"}
+{"level":"info","message":"2017-01-20T04:29:04.719Z '127.0.0.1: POST /insert/signupform?email=donaldtrump%40gmail.com&password=donaldtrump --> 400'","timestamp":"9:59:04 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"9:59:56 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:00:56 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:01:56 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:02:56 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:03:56 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:04:05 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:04:06 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:04:07 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:04:07 AM"}
+{"level":"info","message":"2017-01-20T04:34:10.216Z '127.0.0.1: POST /insert/signupform?email=donaldtrump%40gmail.com&password=donaldtrump --> 200'","timestamp":"10:04:10 AM"}
+{"level":"info","message":"2017-01-20T04:34:19.708Z '127.0.0.1: POST /insert/signupform?email=donaldtrump123%40gmail.com&password=donaldtrump123 --> 200'","timestamp":"10:04:19 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:05:03 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:06:03 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:07:03 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:08:03 AM"}
+{"level":"info","message":"2017-01-20T04:38:23.862Z '127.0.0.1: POST /insert/signupform?email=donaldtrump123%40gmail.com&password=donaldtrump123 --> 200'","timestamp":"10:08:23 AM"}
+{"level":"info","message":"2017-01-20T04:38:26.311Z '127.0.0.1: POST /insert/signupform?email=donaldtrump123%40gmail.com&password=donaldtrump123 --> 200'","timestamp":"10:08:26 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:09:03 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:10:03 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:11:03 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:11:37 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:11:38 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:11:38 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:11:38 AM"}
+{"level":"info","message":"2017-01-20T04:41:43.159Z '127.0.0.1: POST /insert/signupform?email=donaldtrump123%40gmail.com&password=donaldtrump123 --> 200'","timestamp":"10:11:43 AM"}
+{"level":"info","message":"2017-01-20T04:41:59.193Z '127.0.0.1: POST /insert/signupform?email=donaldtrump123%40gmail.com&password=donaldtrump123 --> 400'","timestamp":"10:11:59 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:12:35 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:13:35 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:14:35 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:15:35 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:31:11 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:32:11 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:33:23 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:34:23 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:35:23 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:36:23 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:37:23 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:38:23 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:39:05 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:39:07 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:39:07 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:39:07 AM"}
+{"level":"info","message":"2017-01-20T05:09:13.905Z '127.0.0.1: GET /documentation --> 200'","timestamp":"10:39:13 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.127Z '127.0.0.1: GET /swaggerui/css/typography.css --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.162Z '127.0.0.1: GET /swaggerui/css/reset.css --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.198Z '127.0.0.1: GET /swaggerui/css/screen.css --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.228Z '127.0.0.1: GET /swaggerui/lib/jquery.slideto.min.js --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.288Z '127.0.0.1: GET /swaggerui/lib/jquery-1.8.0.min.js --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.335Z '127.0.0.1: GET /swaggerui/lib/jquery.wiggle.min.js --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.394Z '127.0.0.1: GET /swaggerui/lib/jquery.ba-bbq.min.js --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.428Z '127.0.0.1: GET /swaggerui/lib/handlebars-2.0.0.js --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.459Z '127.0.0.1: GET /swaggerui/lib/js-yaml.min.js --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.494Z '127.0.0.1: GET /swaggerui/lib/lodash.min.js --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.583Z '127.0.0.1: GET /swaggerui/lib/backbone-min.js --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.637Z '127.0.0.1: GET /swaggerui/lib/highlight.7.3.pack.js --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.673Z '127.0.0.1: GET /swaggerui/lib/marked.js --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.693Z '127.0.0.1: GET /swaggerui/lib/swagger-oauth.js --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.741Z '127.0.0.1: GET /swaggerui/lib/jsoneditor.min.js --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.799Z '127.0.0.1: GET /swaggerui/extend.js --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.855Z '127.0.0.1: GET /swaggerui/lang/translator.js --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.880Z '127.0.0.1: GET /swaggerui/lang/en.js --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:14.958Z '127.0.0.1: GET /swaggerui/css/print.css --> 304'","timestamp":"10:39:14 AM"}
+{"level":"info","message":"2017-01-20T05:09:15.021Z '127.0.0.1: GET /swaggerui/swagger-ui.js --> 304'","timestamp":"10:39:15 AM"}
+{"level":"info","message":"2017-01-20T05:09:15.477Z '127.0.0.1: GET /swaggerui/images/logo_small.png --> 304'","timestamp":"10:39:15 AM"}
+{"level":"info","message":"2017-01-20T05:09:15.486Z '127.0.0.1: GET /swaggerui/fonts/DroidSans-Bold.ttf --> 304'","timestamp":"10:39:15 AM"}
+{"level":"info","message":"2017-01-20T05:09:15.499Z '127.0.0.1: GET /swaggerui/fonts/DroidSans.ttf --> 304'","timestamp":"10:39:15 AM"}
+{"level":"info","message":"2017-01-20T05:09:15.671Z '127.0.0.1: GET /swagger.json --> 200'","timestamp":"10:39:15 AM"}
+{"level":"info","message":"2017-01-20T05:09:16.038Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 200'","timestamp":"10:39:16 AM"}
+{"level":"info","message":"2017-01-20T05:09:16.088Z '127.0.0.1: GET /swaggerui/images/favicon-32x32.png --> 304'","timestamp":"10:39:16 AM"}
+{"level":"info","message":"2017-01-20T05:09:16.177Z '127.0.0.1: GET /swaggerui/images/throbber.gif --> 304'","timestamp":"10:39:16 AM"}
+{"level":"info","message":"2017-01-20T05:09:31.527Z '127.0.0.1: POST /insert/signupform?email=vipuljain044%40gmail.com&password=vipuljain --> 200'","timestamp":"10:39:31 AM"}
+{"level":"info","message":"2017-01-20T05:09:50.118Z '127.0.0.1: POST /insert/signupform?email=vipuljain044%40gmail.com&password=vipuljain --> 200'","timestamp":"10:39:50 AM"}
+{"level":"info","message":"2017-01-20T05:09:57.696Z '127.0.0.1: POST /insert/signupform?email=vipuljain044%40gmail.com&password=vipuljain --> 200'","timestamp":"10:39:57 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:40:04 AM"}
+{"level":"info","message":"2017-01-20T05:10:30.304Z '127.0.0.1: POST /insert/signupform?email=vipuljai%40gmail.com&password=vipuljain --> 200'","timestamp":"10:40:30 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:40:39 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:40:40 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:40:40 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:40:40 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:53:03 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:54:03 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:55:03 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:56:03 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:57:03 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:58:03 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:59:54 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:59:55 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:59:55 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:59:55 AM"}
+{"level":"info","message":"2017-01-20T05:30:00.967Z '127.0.0.1: GET /clickerbook --> 400'","timestamp":"11:00:00 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:00:38 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:00:40 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:00:40 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:00:40 AM"}
+{"level":"info","message":"2017-01-20T05:30:44.367Z '127.0.0.1: GET /clickerbook --> 200'","timestamp":"11:00:44 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:01:05 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:01:07 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:01:07 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:01:07 AM"}
+{"level":"info","message":"2017-01-20T05:31:08.165Z '127.0.0.1: GET /clickerbook --> 404'","timestamp":"11:01:08 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:01:43 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:01:44 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:01:45 AM"}
+{"level":"info","message":"2017-01-20T05:31:45.331Z '127.0.0.1: GET /clickerbook --> 403'","timestamp":"11:01:45 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:01:45 AM"}
+{"level":"info","message":"2017-01-20T05:31:51.043Z '127.0.0.1: GET /clickerbook --> 403'","timestamp":"11:01:51 AM"}
+{"level":"info","message":"2017-01-20T05:32:00.923Z '127.0.0.1: GET /documentation --> 200'","timestamp":"11:02:00 AM"}
+{"level":"info","message":"2017-01-20T05:32:01.056Z '127.0.0.1: GET /swaggerui/css/typography.css --> 304'","timestamp":"11:02:01 AM"}
+{"level":"info","message":"2017-01-20T05:32:01.137Z '127.0.0.1: GET /swaggerui/css/reset.css --> 304'","timestamp":"11:02:01 AM"}
+{"level":"info","message":"2017-01-20T05:32:01.191Z '127.0.0.1: GET /swaggerui/css/screen.css --> 304'","timestamp":"11:02:01 AM"}
+{"level":"info","message":"2017-01-20T05:32:01.264Z '127.0.0.1: GET /swaggerui/lib/jquery.slideto.min.js --> 304'","timestamp":"11:02:01 AM"}
+{"level":"info","message":"2017-01-20T05:32:01.299Z '127.0.0.1: GET /swaggerui/lib/jquery.wiggle.min.js --> 304'","timestamp":"11:02:01 AM"}
+{"level":"info","message":"2017-01-20T05:32:01.320Z '127.0.0.1: GET /swaggerui/lib/jquery-1.8.0.min.js --> 304'","timestamp":"11:02:01 AM"}
+{"level":"info","message":"2017-01-20T05:32:01.430Z '127.0.0.1: GET /swaggerui/lib/jquery.ba-bbq.min.js --> 304'","timestamp":"11:02:01 AM"}
+{"level":"info","message":"2017-01-20T05:32:01.467Z '127.0.0.1: GET /swaggerui/lib/js-yaml.min.js --> 304'","timestamp":"11:02:01 AM"}
+{"level":"info","message":"2017-01-20T05:32:01.486Z '127.0.0.1: GET /swaggerui/lib/handlebars-2.0.0.js --> 304'","timestamp":"11:02:01 AM"}
+{"level":"info","message":"2017-01-20T05:32:01.523Z '127.0.0.1: GET /swaggerui/lib/lodash.min.js --> 304'","timestamp":"11:02:01 AM"}
+{"level":"info","message":"2017-01-20T05:32:01.579Z '127.0.0.1: GET /swaggerui/lib/backbone-min.js --> 304'","timestamp":"11:02:01 AM"}
+{"level":"info","message":"2017-01-20T05:32:01.655Z '127.0.0.1: GET /swaggerui/lib/highlight.7.3.pack.js --> 304'","timestamp":"11:02:01 AM"}
+{"level":"info","message":"2017-01-20T05:32:01.700Z '127.0.0.1: GET /swaggerui/lib/marked.js --> 304'","timestamp":"11:02:01 AM"}
+{"level":"info","message":"2017-01-20T05:32:01.730Z '127.0.0.1: GET /swaggerui/lib/jsoneditor.min.js --> 304'","timestamp":"11:02:01 AM"}
+{"level":"info","message":"2017-01-20T05:32:01.791Z '127.0.0.1: GET /swaggerui/lib/swagger-oauth.js --> 304'","timestamp":"11:02:01 AM"}
+{"level":"info","message":"2017-01-20T05:32:01.878Z '127.0.0.1: GET /swaggerui/extend.js --> 304'","timestamp":"11:02:01 AM"}
+{"level":"info","message":"2017-01-20T05:32:01.929Z '127.0.0.1: GET /swaggerui/lang/translator.js --> 304'","timestamp":"11:02:01 AM"}
+{"level":"info","message":"2017-01-20T05:32:01.997Z '127.0.0.1: GET /swaggerui/lang/en.js --> 304'","timestamp":"11:02:02 AM"}
+{"level":"info","message":"2017-01-20T05:32:02.105Z '127.0.0.1: GET /swaggerui/css/print.css --> 304'","timestamp":"11:02:02 AM"}
+{"level":"info","message":"2017-01-20T05:32:02.182Z '127.0.0.1: GET /swaggerui/swagger-ui.js --> 304'","timestamp":"11:02:02 AM"}
+{"level":"info","message":"2017-01-20T05:32:02.730Z '127.0.0.1: GET /swaggerui/images/logo_small.png --> 304'","timestamp":"11:02:02 AM"}
+{"level":"info","message":"2017-01-20T05:32:02.745Z '127.0.0.1: GET /swaggerui/fonts/DroidSans-Bold.ttf --> 304'","timestamp":"11:02:02 AM"}
+{"level":"info","message":"2017-01-20T05:32:02.795Z '127.0.0.1: GET /swaggerui/fonts/DroidSans.ttf --> 304'","timestamp":"11:02:02 AM"}
+{"level":"info","message":"2017-01-20T05:32:03.005Z '127.0.0.1: GET /swagger.json --> 200'","timestamp":"11:02:03 AM"}
+{"level":"info","message":"2017-01-20T05:32:03.467Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304'","timestamp":"11:02:03 AM"}
+{"level":"info","message":"2017-01-20T05:32:05.602Z '127.0.0.1: GET /swaggerui/images/throbber.gif --> 304'","timestamp":"11:02:05 AM"}
+{"level":"info","message":"2017-01-20T05:32:05.724Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304'","timestamp":"11:02:05 AM"}
+{"level":"info","message":"2017-01-20T05:32:10.946Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304'","timestamp":"11:02:10 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:02:41 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:03:41 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:04:07 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:04:09 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:04:09 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:04:09 AM"}
+{"level":"info","message":"2017-01-20T05:34:11.323Z '127.0.0.1: GET /clickerbook --> 403'","timestamp":"11:04:11 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:05:06 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:05:59 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:06:00 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:06:01 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:06:01 AM"}
+{"level":"info","message":"2017-01-20T05:36:01.349Z '127.0.0.1: GET /clickerbook --> 403'","timestamp":"11:06:01 AM"}
+{"level":"info","message":"2017-01-20T05:36:13.702Z '127.0.0.1: GET /clickerbook --> 403'","timestamp":"11:06:13 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:06:57 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:07:57 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:08:18 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:08:20 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:08:20 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:08:20 AM"}
+{"level":"info","message":"2017-01-20T05:38:22.957Z '127.0.0.1: GET /clickerbook --> 403'","timestamp":"11:08:22 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:08:51 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:08:53 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:08:53 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:08:53 AM"}
+{"level":"info","message":"2017-01-20T05:38:55.409Z '127.0.0.1: GET /clickerbook --> 404'","timestamp":"11:08:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:09:50 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:10:50 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:17:09 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:18:00 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:18:01 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:18:01 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:18:01 AM"}
+{"level":"info","message":"2017-01-20T05:48:04.317Z '127.0.0.1: GET /clickerbook --> 403'","timestamp":"11:18:04 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:19:21 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:19:23 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:19:23 AM"}
+{"level":"info","message":"2017-01-20T05:49:23.617Z '127.0.0.1: GET /clickerbook --> 403'","timestamp":"11:19:23 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:19:23 AM"}
+{"level":"info","message":"2017-01-20T05:49:27.665Z '127.0.0.1: GET /clickerbook --> 403'","timestamp":"11:19:27 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:20:03 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:20:04 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:20:04 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:20:04 AM"}
+{"level":"info","message":"2017-01-20T05:50:06.311Z '127.0.0.1: GET /clickerbook --> 403'","timestamp":"11:20:06 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:21:01 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:22:01 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:34:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:35:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:36:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:37:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:38:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:39:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:40:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:41:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:42:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:43:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:44:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:45:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:46:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:47:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:48:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:49:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:50:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:51:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:52:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:53:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:54:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:55:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:56:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:57:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:58:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:59:55 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:00:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:01:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:02:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:03:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:04:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:05:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:06:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:07:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:08:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:09:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:10:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:11:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:12:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:13:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:14:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:15:55 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:16:57 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:16:58 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:16:59 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:16:59 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:17:55 PM"}
+{"level":"info","message":"2017-01-20T06:48:02.800Z '127.0.0.1: GET /documentation --> 200'","timestamp":"12:18:02 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.048Z '127.0.0.1: GET /swaggerui/css/typography.css --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.098Z '127.0.0.1: GET /swaggerui/css/reset.css --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.143Z '127.0.0.1: GET /swaggerui/css/screen.css --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.234Z '127.0.0.1: GET /swaggerui/lib/jquery.slideto.min.js --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.252Z '127.0.0.1: GET /swaggerui/lib/jquery-1.8.0.min.js --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.306Z '127.0.0.1: GET /swaggerui/lib/jquery.wiggle.min.js --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.339Z '127.0.0.1: GET /swaggerui/lib/jquery.ba-bbq.min.js --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.369Z '127.0.0.1: GET /swaggerui/lib/handlebars-2.0.0.js --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.446Z '127.0.0.1: GET /swaggerui/lib/js-yaml.min.js --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.464Z '127.0.0.1: GET /swaggerui/lib/lodash.min.js --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.513Z '127.0.0.1: GET /swaggerui/lib/backbone-min.js --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.560Z '127.0.0.1: GET /swaggerui/lib/highlight.7.3.pack.js --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.610Z '127.0.0.1: GET /swaggerui/lib/jsoneditor.min.js --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.631Z '127.0.0.1: GET /swaggerui/lib/marked.js --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.687Z '127.0.0.1: GET /swaggerui/lib/swagger-oauth.js --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.746Z '127.0.0.1: GET /swaggerui/extend.js --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.756Z '127.0.0.1: GET /swaggerui/lang/translator.js --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.805Z '127.0.0.1: GET /swaggerui/lang/en.js --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.885Z '127.0.0.1: GET /swaggerui/css/print.css --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:03.943Z '127.0.0.1: GET /swaggerui/swagger-ui.js --> 304'","timestamp":"12:18:03 PM"}
+{"level":"info","message":"2017-01-20T06:48:04.554Z '127.0.0.1: GET /swaggerui/fonts/DroidSans-Bold.ttf --> 304'","timestamp":"12:18:04 PM"}
+{"level":"info","message":"2017-01-20T06:48:04.565Z '127.0.0.1: GET /swaggerui/images/logo_small.png --> 304'","timestamp":"12:18:04 PM"}
+{"level":"info","message":"2017-01-20T06:48:04.613Z '127.0.0.1: GET /swaggerui/fonts/DroidSans.ttf --> 304'","timestamp":"12:18:04 PM"}
+{"level":"info","message":"2017-01-20T06:48:04.808Z '127.0.0.1: GET /swagger.json --> 200'","timestamp":"12:18:04 PM"}
+{"level":"info","message":"2017-01-20T06:48:05.227Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 200'","timestamp":"12:18:05 PM"}
+{"level":"info","message":"2017-01-20T06:48:05.266Z '127.0.0.1: GET /swaggerui/images/favicon-32x32.png --> 304'","timestamp":"12:18:05 PM"}
+{"level":"info","message":"2017-01-20T06:48:06.157Z '127.0.0.1: GET /swaggerui/images/throbber.gif --> 304'","timestamp":"12:18:06 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:18:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:19:56 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:20:56 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:21:55 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:22:56 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:22:57 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:22:58 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:22:58 PM"}
+{"level":"info","message":"2017-01-20T06:53:00.609Z '127.0.0.1: GET /clickerbook --> 403'","timestamp":"12:23:00 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:23:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:24:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:25:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:26:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:27:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:28:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:29:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:30:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:31:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:32:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:33:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:34:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:35:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:36:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:37:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:38:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:39:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:40:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:41:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:42:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:43:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:44:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:45:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:46:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:47:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:48:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:49:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:50:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:51:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:52:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:53:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:54:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:55:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:56:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:57:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:58:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:59:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:00:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:01:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:02:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:03:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:04:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:05:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:06:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:07:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:08:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:09:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:10:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:11:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:12:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:13:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:14:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:15:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:16:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:17:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:18:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:19:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:20:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:21:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:22:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:23:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:24:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:25:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:26:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:27:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:28:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:29:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:30:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:31:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:32:55 PM"}
+{"message":"db error","stack":"Error: read ECONNRESET\n    at exports._errnoException (util.js:1022:11)\n    at TCP.onread (net.js:572:26)","code":"ECONNRESET","errno":"ECONNRESET","syscall":"read","fatal":true,"level":"error","timestamp":"1:33:00 PM"}

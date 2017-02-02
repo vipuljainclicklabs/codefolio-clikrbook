@@ -1,0 +1,90 @@
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"6:22:02 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"6:22:03 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"6:22:04 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"6:22:04 PM"}
+{"level":"info","message":"2017-01-21T12:52:08.217Z '127.0.0.1: GET /documentation --> 200'","timestamp":"6:22:08 PM"}
+{"level":"info","message":"2017-01-21T12:52:08.394Z '127.0.0.1: GET /swaggerui/css/typography.css --> 304'","timestamp":"6:22:08 PM"}
+{"level":"info","message":"2017-01-21T12:52:08.429Z '127.0.0.1: GET /swaggerui/css/screen.css --> 304'","timestamp":"6:22:08 PM"}
+{"level":"info","message":"2017-01-21T12:52:08.479Z '127.0.0.1: GET /swaggerui/css/reset.css --> 304'","timestamp":"6:22:08 PM"}
+{"level":"info","message":"2017-01-21T12:52:08.521Z '127.0.0.1: GET /swaggerui/lib/jquery.slideto.min.js --> 304'","timestamp":"6:22:08 PM"}
+{"level":"info","message":"2017-01-21T12:52:08.567Z '127.0.0.1: GET /swaggerui/lib/jquery-1.8.0.min.js --> 304'","timestamp":"6:22:08 PM"}
+{"level":"info","message":"2017-01-21T12:52:08.685Z '127.0.0.1: GET /swaggerui/lib/jquery.wiggle.min.js --> 304'","timestamp":"6:22:08 PM"}
+{"level":"info","message":"2017-01-21T12:52:08.744Z '127.0.0.1: GET /swaggerui/lib/jquery.ba-bbq.min.js --> 304'","timestamp":"6:22:08 PM"}
+{"level":"info","message":"2017-01-21T12:52:08.757Z '127.0.0.1: GET /swaggerui/lib/handlebars-2.0.0.js --> 304'","timestamp":"6:22:08 PM"}
+{"level":"info","message":"2017-01-21T12:52:08.797Z '127.0.0.1: GET /swaggerui/lib/js-yaml.min.js --> 304'","timestamp":"6:22:08 PM"}
+{"level":"info","message":"2017-01-21T12:52:08.834Z '127.0.0.1: GET /swaggerui/lib/lodash.min.js --> 304'","timestamp":"6:22:08 PM"}
+{"level":"info","message":"2017-01-21T12:52:08.978Z '127.0.0.1: GET /swaggerui/lib/backbone-min.js --> 304'","timestamp":"6:22:08 PM"}
+{"level":"info","message":"2017-01-21T12:52:09.018Z '127.0.0.1: GET /swaggerui/lib/highlight.7.3.pack.js --> 304'","timestamp":"6:22:09 PM"}
+{"level":"info","message":"2017-01-21T12:52:09.037Z '127.0.0.1: GET /swaggerui/lib/marked.js --> 304'","timestamp":"6:22:09 PM"}
+{"level":"info","message":"2017-01-21T12:52:09.067Z '127.0.0.1: GET /swaggerui/lib/swagger-oauth.js --> 304'","timestamp":"6:22:09 PM"}
+{"level":"info","message":"2017-01-21T12:52:09.088Z '127.0.0.1: GET /swaggerui/lib/jsoneditor.min.js --> 304'","timestamp":"6:22:09 PM"}
+{"level":"info","message":"2017-01-21T12:52:09.120Z '127.0.0.1: GET /swaggerui/extend.js --> 304'","timestamp":"6:22:09 PM"}
+{"level":"info","message":"2017-01-21T12:52:09.144Z '127.0.0.1: GET /swaggerui/lang/translator.js --> 304'","timestamp":"6:22:09 PM"}
+{"level":"info","message":"2017-01-21T12:52:09.158Z '127.0.0.1: GET /swaggerui/lang/en.js --> 304'","timestamp":"6:22:09 PM"}
+{"level":"info","message":"2017-01-21T12:52:09.197Z '127.0.0.1: GET /swaggerui/css/print.css --> 304'","timestamp":"6:22:09 PM"}
+{"level":"info","message":"2017-01-21T12:52:09.640Z '127.0.0.1: GET /swaggerui/swagger-ui.js --> 304'","timestamp":"6:22:09 PM"}
+{"level":"info","message":"2017-01-21T12:52:10.270Z '127.0.0.1: GET /swaggerui/images/logo_small.png --> 304'","timestamp":"6:22:10 PM"}
+{"level":"info","message":"2017-01-21T12:52:10.290Z '127.0.0.1: GET /swaggerui/fonts/DroidSans-Bold.ttf --> 304'","timestamp":"6:22:10 PM"}
+{"level":"info","message":"2017-01-21T12:52:10.306Z '127.0.0.1: GET /swaggerui/fonts/DroidSans.ttf --> 304'","timestamp":"6:22:10 PM"}
+{"level":"info","message":"2017-01-21T12:52:10.480Z '127.0.0.1: GET /swagger.json --> 200'","timestamp":"6:22:10 PM"}
+{"level":"info","message":"2017-01-21T12:52:10.924Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304'","timestamp":"6:22:10 PM"}
+{"level":"info","message":"2017-01-21T12:52:18.092Z '127.0.0.1: GET /swaggerui/images/throbber.gif --> 304'","timestamp":"6:22:18 PM"}
+{"level":"info","message":"2017-01-21T12:52:18.189Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304'","timestamp":"6:22:18 PM"}
+{"level":"info","message":"2017-01-21T12:52:24.110Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304'","timestamp":"6:22:24 PM"}
+{"level":"info","message":"2017-01-21T12:52:25.876Z '127.0.0.1: GET /swaggerui/images/favicon-16x16.png --> 304'","timestamp":"6:22:25 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:23:01 PM"}
+{"level":"info","message":"2017-01-21T12:53:14.185Z '127.0.0.1: POST /insert/loginform?email=vipuljai%40gmail.com&password=vipuljain --> 200'","timestamp":"6:23:14 PM"}
+{"level":"info","message":"2017-01-21T12:53:58.203Z '127.0.0.1: POST /insert/loginform?email=donaldtrump123%40gmail&password=%20donaldtrump123 --> 200'","timestamp":"6:23:58 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:24:01 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:25:01 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:26:01 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:27:01 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:28:01 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:29:01 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"6:30:02 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"6:30:03 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"6:30:03 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"6:30:03 PM"}
+{"level":"info","message":"2017-01-21T13:00:07.695Z '127.0.0.1: POST /insert/loginform?email=donaldtrump123%40gmail&password=%20donaldtrump123 --> 400'","timestamp":"6:30:07 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:31:01 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:32:01 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:33:01 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"6:33:12 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"6:33:14 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"6:33:14 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"6:33:14 PM"}
+{"level":"info","message":"2017-01-21T13:03:35.623Z '127.0.0.1: POST /insert/loginform?email=donaldtrump123%40gmail&password=%20donaldtrump123 --> 200'","timestamp":"6:33:35 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:34:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:35:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:36:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:37:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:38:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:39:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:40:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:41:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:42:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:43:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:44:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:45:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:46:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:47:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:48:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:49:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:50:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:51:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:52:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:53:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:54:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:55:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:56:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:57:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:58:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:59:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"7:00:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"7:01:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"7:02:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"7:03:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"7:07:44 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"7:08:44 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"7:09:44 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"7:10:44 PM"}

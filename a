@@ -1,0 +1,42 @@
+[33mcommit ec739e10c7b1347024f219043c95976a79098eb4[m
+Merge: cb3f3e7 b4a8075
+Author: Rishikesh Chandra <rishikesh.chandra@click-labs.com>
+Date:   Mon Jan 9 15:28:48 2017 +0530
+
+    Merge branch 'multilanguage' into 'master'
+    
+    Multilanguage
+    
+    Multi Language implementation on db level(Mysql)
+    
+    See merge request !1
+
+[33mcommit b4a80757794fc83933ecad8c4cf798e8a255fca4[m
+Author: Dixit.Sharma <dixit.sharma@click-labs.com>
+Date:   Fri Jan 6 18:01:56 2017 +0530
+
+    change2
+
+[33mcommit c54565d4bdaeb2d071e6e01e56207a38b26fb9d0[m
+Author: Dixit.Sharma <dixit.sharma@click-labs.com>
+Date:   Fri Jan 6 17:25:16 2017 +0530
+
+    change
+
+[33mcommit 7b5cb5877114c44c596bd9298746d27cce83e188[m
+Author: Dixit.Sharma <dixit.sharma@click-labs.com>
+Date:   Fri Jan 6 17:09:48 2017 +0530
+
+    Multi Language Feature on the basis of mysql
+
+[33mcommit cb3f3e70a8360a20ed3e7399540475f450bd1006[m
+Author: Sukhpreet Singh <rishikesh.chandra@click-labs.com>
+Date:   Wed Dec 28 16:34:35 2016 +0530
+
+    Added code for multilingual support
+
+[33mcommit dab343e3b9cf8ee35bfd875191ba668ba5ba5aae[m
+Author: amrit_singh <amritsingh183@gmail.com>
+Date:   Wed Dec 28 14:15:33 2016 +0530
+
+    node base project

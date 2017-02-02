@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link type="text/css" rel="stylesheet" href="style/clickerbook.css">
+	<head>
+		<title>Clicker-Book</title>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<script type="text/javascript" src="script/clickerbook.js"></script>
+	</head>
+	<body id="grad1">
+		<nav class="navbar navbar-inverse">
+	  		<div class="container-fluid header">
+	    		<div class="navbar-header">
+	      			<a class="navbar-brand headTag" href="#">ClickrBook</a>
+	      			<img class="clicklabsicon" src="img/clicklabs.png">
+	    		</div>
+	    		<form class="navbar-form navbar-right" method="POST" id="login_form" action="/loginuser">
+	      			<div class="form-group loginForm" >
+	        			<input type="text" class="form-control" id="email" name="email" placeholder="Email Address">
+	      			</div>
+	      			<div class="form-group loginForm">
+	        			<input type="password" class="form-control" name="password" id="password" placeholder="Password">
+	      			</div>
+	      			<button type="button" class="btn btn-primary loginForm" onclick="loginButton()">Login</button>
+	    		</form>
+	  		</div>
+		</nav>
+
+		<div>
+			<div class="leftDiv">
+				<img class="clicklabimage" src="img/clicklabimg.jpg">
+			</div>
+			<div class="rightDiv">
+				<div class="inrightDiv">
+					<h1>Create Clickr Account</h1>
+					<h4>It's free and always will be.</h4>
+					<form class="signUpForm" method="POST" action="/loggedin" id="signUp">
+		      			<div class="form-group signupForm">
+		        			<input type="text" class="form-control" placeholder="First Name" id="firstName" name="firstName">
+		      			</div>
+		      			<div class="form-group signupForm">
+		        			<input type="text" class="form-control" placeholder="Last Name" id="lastName" name="lastName">
+		      			</div>
+		      			<div class="form-group signupForm">
+		        			<input type="text" class="form-control" placeholder="Email Address" id="emailAddress" name="emailAddress">
+		      			</div>
+		      			<div class="form-group signupForm">
+		        			<input type="text" class="form-control" placeholder="Number" id="number" name="number" onkeyup="numberCheck()" 
+		        			onkeydown="numberCheck()">
+		      			</div>
+		      			<div class="form-group signupForm">
+		        			<input type="password" class="form-control" placeholder="Create Password" onkeyup="pass1Edit()" id="password1" name="password1">
+		      			</div>
+		      			<div class="form-group signupForm">
+		        			<input type="password" class="form-control" placeholder="Re-type Password" onkeyup="pass2Edit()" id="password2">
+		      			</div>
+		      			<div>
+		      				<p class="gender">Gender:</p>
+		      				<input class="gender" type="radio" name="gender" id="male" value="male" checked> Male
+  						<input class="gender" type="radio" name="gender" id="female" value="female"> Female<br>
+		      			</div>
+		      			
+		      			<button type="button" class="btn btn-primary loginFormbutton" onclick="signUp()">Lets Go</button>
+
+		    		</form>
+	    		</div>
+			</div>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,33 @@
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"2:53:48 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"2:53:49 PM"}
+{"message":"error when connecting to db:","stack":"Error: ER_BAD_DB_ERROR: Unknown database 'clicklabs'\n    at Handshake.Sequence._packetToError (/home/vipul/Desktop/CL-api-baseproject/node_modules/mysql/lib/protocol/sequences/Sequence.js:52:14)\n    at Handshake.ErrorPacket (/home/vipul/Desktop/CL-api-baseproject/node_modules/mysql/lib/protocol/sequences/Handshake.js:103:18)\n    at Protocol._parsePacket (/home/vipul/Desktop/CL-api-baseproject/node_modules/mysql/lib/protocol/Protocol.js:280:23)\n    at Parser.write (/home/vipul/Desktop/CL-api-baseproject/node_modules/mysql/lib/protocol/Parser.js:74:12)\n    at Protocol.write (/home/vipul/Desktop/CL-api-baseproject/node_modules/mysql/lib/protocol/Protocol.js:39:16)\n    at Socket.<anonymous> (/home/vipul/Desktop/CL-api-baseproject/node_modules/mysql/lib/Connection.js:109:28)\n    at emitOne (events.js:77:13)\n    at Socket.emit (events.js:169:7)\n    at readableAddChunk (_stream_readable.js:146:16)\n    at Socket.Readable.push (_stream_readable.js:110:10)\n    at TCP.onread (net.js:523:20)\n    --------------------\n    at Protocol._enqueue (/home/vipul/Desktop/CL-api-baseproject/node_modules/mysql/lib/protocol/Protocol.js:141:48)\n    at Protocol.handshake (/home/vipul/Desktop/CL-api-baseproject/node_modules/mysql/lib/protocol/Protocol.js:52:41)\n    at Connection.connect (/home/vipul/Desktop/CL-api-baseproject/node_modules/mysql/lib/Connection.js:136:18)\n    at initConnectionToMySQL (/home/vipul/Desktop/CL-api-baseproject/config/index.js:52:18)\n    at Object.<anonymous> (/home/vipul/Desktop/CL-api-baseproject/config/index.js:85:1)\n    at Module._compile (module.js:410:26)\n    at Object.Module._extensions..js (module.js:417:10)\n    at Module.load (module.js:344:32)\n    at Function.Module._load (module.js:301:12)\n    at Module.require (module.js:354:17)\n    at require (internal/module.js:12:17)\n    at Object.<anonymous> (/home/vipul/Desktop/CL-api-baseproject/index.js:32:16)\n    at Module._compile (module.js:410:26)\n    at Object.Module._extensions..js (module.js:417:10)\n    at Module.load (module.js:344:32)\n    at Function.Module._load (module.js:301:12)","code":"ER_BAD_DB_ERROR","errno":1049,"sqlState":"42000","fatal":true,"level":"error","timestamp":"2:53:49 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"2:57:09 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"2:57:10 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2:57:10 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"2:57:10 PM"}
+{"level":"info","message":"Mon Jan 30 2017 14:57:26 GMT+0530 (IST) '127.0.0.1: GET / --> 200'","timestamp":"2:57:26 PM"}
+{"level":"info","message":"Mon Jan 30 2017 14:57:26 GMT+0530 (IST) '127.0.0.1: GET /style/main.css --> 200'","timestamp":"2:57:26 PM"}
+{"level":"info","message":"Mon Jan 30 2017 14:57:26 GMT+0530 (IST) '127.0.0.1: GET /script/script.js --> 200'","timestamp":"2:57:26 PM"}
+{"level":"info","message":"Mon Jan 30 2017 14:57:27 GMT+0530 (IST) '127.0.0.1: GET /img/name1.png --> 200'","timestamp":"2:57:27 PM"}
+{"level":"info","message":"Mon Jan 30 2017 14:57:27 GMT+0530 (IST) '127.0.0.1: GET /img/name2.png --> 200'","timestamp":"2:57:27 PM"}
+{"level":"info","message":"Mon Jan 30 2017 14:57:27 GMT+0530 (IST) '127.0.0.1: GET /img/logo_small.png --> 200'","timestamp":"2:57:27 PM"}
+{"level":"info","message":"Mon Jan 30 2017 14:57:27 GMT+0530 (IST) '127.0.0.1: GET /img/billboard2.jpg --> 200'","timestamp":"2:57:27 PM"}
+{"level":"info","message":"Mon Jan 30 2017 14:57:27 GMT+0530 (IST) '127.0.0.1: GET /img/separator.png --> 200'","timestamp":"2:57:27 PM"}
+{"level":"info","message":"Mon Jan 30 2017 14:57:27 GMT+0530 (IST) '127.0.0.1: GET /img/s1.png --> 200'","timestamp":"2:57:27 PM"}
+{"level":"info","message":"Mon Jan 30 2017 14:57:27 GMT+0530 (IST) '127.0.0.1: GET /img/contact.png --> 200'","timestamp":"2:57:27 PM"}
+{"level":"info","message":"Mon Jan 30 2017 14:57:27 GMT+0530 (IST) '127.0.0.1: GET /img/s3.png --> 200'","timestamp":"2:57:27 PM"}
+{"level":"info","message":"Mon Jan 30 2017 14:57:27 GMT+0530 (IST) '127.0.0.1: GET /favicon.ico --> 404'","timestamp":"2:57:27 PM"}
+{"level":"info","message":"Mon Jan 30 2017 14:57:51 GMT+0530 (IST) '127.0.0.1: GET /clickrbook.html --> 200'","timestamp":"2:57:51 PM"}
+{"level":"info","message":"Mon Jan 30 2017 14:57:51 GMT+0530 (IST) '127.0.0.1: GET /style/clickerbook.css --> 200'","timestamp":"2:57:51 PM"}
+{"level":"info","message":"Mon Jan 30 2017 14:57:51 GMT+0530 (IST) '127.0.0.1: GET /script/clickerbook.js --> 200'","timestamp":"2:57:51 PM"}
+{"level":"info","message":"Mon Jan 30 2017 14:57:51 GMT+0530 (IST) '127.0.0.1: GET /img/clicklabs.png --> 200'","timestamp":"2:57:51 PM"}
+{"level":"info","message":"Mon Jan 30 2017 14:57:51 GMT+0530 (IST) '127.0.0.1: GET /img/clicklabimg.jpg --> 200'","timestamp":"2:57:51 PM"}
+{"level":"info","message":"Mon Jan 30 2017 14:57:53 GMT+0530 (IST) '127.0.0.1: POST /access_token --> 200'","timestamp":"2:57:53 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:58:08 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"2:59:08 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:00:08 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:01:08 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:02:08 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:03:08 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:04:08 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:05:08 PM"}

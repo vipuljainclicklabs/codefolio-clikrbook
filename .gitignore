@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+node_modules/
+*.DS_Store
+uploads/
+Utilities/profilePictureData.json
+npm-debug.log

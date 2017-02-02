@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<head>
+	<title>CodeFolio</title>
+	<link rel="stylesheet" type="text/css" href="style/main.css">
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="script/script.js"></script>
+</head>
+
+<body>
+	<header class="trasparent_nav">
+		<div class="wrapper">
+			<div class="logo">
+				<a href="#"><img src="img/name1.png" alt="CodeFolio"></a>
+				<a href="#"><img src="img/name2.png" alt="CodeFolio"></a>
+			</div>
+
+			<nav>
+				<ul>
+					<li><a href="/clickrbook.html">ClickrBook</a></li>
+					<li><a href="#contactLocation">About Us</a></li>
+					<li><a href="#" data-toggle="modal" data-target="#myModal"> Contact Us</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+	<header class="fixed_nav">
+		<div class="wrapper">
+			<div class="logo">
+				<a href="#"><img src="img/logo_small.png" alt="Fertile"></a>
+			</div>
+
+			<nav>
+				<ul>
+					<li><a href="/clickrbook.html">ClickrBook</a></li>
+					<li><a href="#contactLocation">About Us</a></li>
+					<li><a href="#" data-toggle="modal" data-target="#myModal"> Contact Us</a></li
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+	<section class="billboard">
+		<img src="img/billboard2.jpg" alt="" title=""/>
+		<img src="img/name1.png" alt="" title=""/>
+	</section>
+
+	<section class="cta cta_top">
+		<div class="modal fade" id="myModal" role="dialog">
+		    <div class="modal-dialog modal-lg">
+		      <div class="modal-content">
+		        <div class="modal-header">
+		          <button type="button" class="close" data-dismiss="modal">&times;</button>
+		          <h4 class="modal-title">Fill Some Details!</h4>
+		        </div>
+			   		<form id="myForm" action="/contactus.html" method="POST" class="modal-body">
+			   			<div class="form-group">
+			   				<input type="text" name="fname" class="form-control" id="fname" placeholder="First Name">
+				   		</div>
+				   		<div class="form-group">
+				   			<input type="text" name="lname" class="form-control" id="lname" placeholder="Last Name">
+				   		</div>
+				   		<div class="form-group">
+				   			<input type="text" name="email" class="form-control" id="email" placeholder="Email Address">
+				   		</div>
+				   		<div class="form-group">
+				   			<input type="text" name="number" class="form-control" id="number" onkeyup="numberCheck()" onkeydown="numberCheck()" placeholder="Number">
+				   		</div>
+				   		<div>
+		      				<p class="gender" id="gender">Gender:</p>
+		      				<input class="gender" type="radio" name="gender" id="gMale" value="male" checked> Male
+  								<input class="gender" type="radio" name="gender" id="gFemale" value="female"> Female<br>
+		      		</div>
+			   		</form>
+
+		        <div class="modal-footer">
+		          <button type="button" class="btn btn-primary" onclick="contactUs()">Submit</button>
+		        </div>
+		      </div>
+		    </div>
+  		</div>
+	</section>
+
+	<section class="services wrapper" id="contactLocation">
+			<h2>Little About Me !</h2>
+			<div class="separator">
+				<img src="img/separator.png" alt=""/>
+			</div>
+			<ul>
+				<li>
+					<img class="s_icons" src="img/s1.png" alt=""/>
+					<h3>Me</h3>
+					<p>Hola Amigo! I'm Vipul, I'm an Intern at Click-labs. I have keen interest in programming. I developed few projects in different programming languages.</p>
+				</li>
+
+				<li>
+					<img class="s_icons" src="img/contact.png" alt=""/>
+					<h3>My Contacts</h3>
+					<p>+91 99 888 999 39<br>
+					vipuljain044@gmail.com<br>
+					vipul@mail.click-labs.com<br>
+					https://www.facebook.com/vipuljain044<br>
+					</p>
+				</li>
+
+				<li>
+					<img class="s_icons" src="img/s3.png" alt=""/>
+					<h3>Technical Skills</h3>
+					<p>C++ , JAVA , ANDROID , HTML , CSS , JAVASCRIPT </p>
+				</li>
+			</ul>
+	</section>
+
+
+	<footer>
+		<div id="map"></div>
+		</div>
+	</footer>
+</body>
+</html>

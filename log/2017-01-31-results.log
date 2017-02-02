@@ -1,0 +1,46 @@
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:06:21 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:06:22 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:06:22 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:06:22 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:42 GMT+0530 (IST) '127.0.0.1: GET / --> 200'","timestamp":"10:06:42 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:42 GMT+0530 (IST) '127.0.0.1: GET /style/main.css --> 200'","timestamp":"10:06:42 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:42 GMT+0530 (IST) '127.0.0.1: GET /script/script.js --> 200'","timestamp":"10:06:42 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:42 GMT+0530 (IST) '127.0.0.1: GET /img/name1.png --> 200'","timestamp":"10:06:42 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:42 GMT+0530 (IST) '127.0.0.1: GET /img/name2.png --> 200'","timestamp":"10:06:42 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:42 GMT+0530 (IST) '127.0.0.1: GET /img/logo_small.png --> 200'","timestamp":"10:06:42 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:42 GMT+0530 (IST) '127.0.0.1: GET /img/separator.png --> 200'","timestamp":"10:06:42 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:42 GMT+0530 (IST) '127.0.0.1: GET /img/s1.png --> 200'","timestamp":"10:06:42 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:42 GMT+0530 (IST) '127.0.0.1: GET /img/contact.png --> 200'","timestamp":"10:06:42 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:42 GMT+0530 (IST) '127.0.0.1: GET /img/s3.png --> 200'","timestamp":"10:06:42 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:42 GMT+0530 (IST) '127.0.0.1: GET /img/billboard2.jpg --> 200'","timestamp":"10:06:42 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:42 GMT+0530 (IST) '127.0.0.1: GET /favicon.ico --> 404'","timestamp":"10:06:42 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:43 GMT+0530 (IST) '127.0.0.1: GET /favicon.ico --> 404'","timestamp":"10:06:43 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:49 GMT+0530 (IST) '127.0.0.1: GET /clickrbook.html --> 200'","timestamp":"10:06:49 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:49 GMT+0530 (IST) '127.0.0.1: GET /style/clickerbook.css --> 200'","timestamp":"10:06:49 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:49 GMT+0530 (IST) '127.0.0.1: GET /script/clickerbook.js --> 200'","timestamp":"10:06:49 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:50 GMT+0530 (IST) '127.0.0.1: GET /img/clicklabs.png --> 200'","timestamp":"10:06:50 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:50 GMT+0530 (IST) '127.0.0.1: GET /img/clicklabimg.jpg --> 200'","timestamp":"10:06:50 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:51 GMT+0530 (IST) '127.0.0.1: POST /access_token --> 200'","timestamp":"10:06:51 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:58 GMT+0530 (IST) '127.0.0.1: POST /loginuser --> 200'","timestamp":"10:06:58 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:58 GMT+0530 (IST) '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"10:06:58 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:58 GMT+0530 (IST) '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"10:06:58 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:59 GMT+0530 (IST) '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"10:06:59 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:59 GMT+0530 (IST) '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"10:06:59 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:06:59 GMT+0530 (IST) '127.0.0.1: POST /access_token --> 200'","timestamp":"10:06:59 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:07:18 GMT+0530 (IST) '127.0.0.1: POST /loginuser --> 200'","timestamp":"10:07:18 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:07:18 GMT+0530 (IST) '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"10:07:18 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:07:18 GMT+0530 (IST) '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"10:07:18 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:07:18 GMT+0530 (IST) '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"10:07:18 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:07:18 GMT+0530 (IST) '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"10:07:18 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:07:18 GMT+0530 (IST) '127.0.0.1: POST /access_token --> 200'","timestamp":"10:07:18 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:07:21 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:08:21 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:08:39 GMT+0530 (IST) '127.0.0.1: POST /loginuser --> 200'","timestamp":"10:08:39 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:08:39 GMT+0530 (IST) '127.0.0.1: GET /style/style2.css --> 200'","timestamp":"10:08:39 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:08:39 GMT+0530 (IST) '127.0.0.1: GET /script/script2.js --> 200'","timestamp":"10:08:39 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:08:52 GMT+0530 (IST) '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"10:08:52 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:08:52 GMT+0530 (IST) '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"10:08:52 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:08:52 GMT+0530 (IST) '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"10:08:52 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:08:52 GMT+0530 (IST) '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"10:08:52 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:08:52 GMT+0530 (IST) '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"10:08:52 AM"}
+{"level":"info","message":"Tue Jan 31 2017 10:08:53 GMT+0530 (IST) '127.0.0.1: POST /access_token --> 200'","timestamp":"10:08:53 AM"}

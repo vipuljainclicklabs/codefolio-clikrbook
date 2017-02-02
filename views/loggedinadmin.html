@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Clicker-Book</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link type="text/css" rel="stylesheet" href="style/style2.css">
+	<script type="text/javascript" src="script/script2.js"></script>
+	
+</head>
+<body>
+	<nav class="navbar navbar-inverse">
+  		<div class="container-fluid header">
+    		<div class="navbar-header">
+      			<p class="navbar-brand" id="headTag">Welcome Admin </p>
+    		</div>
+    		<form class="navbar-form navbar-right ">
+      			<button type="button" class="btn btn-primary loginForm" onclick="signout()">Sign Out</button>
+    		</form>
+  		</div>
+	</nav>
+	<div class="container">
+		<table class="table">
+		  	<thead class="thead-default">
+			    <tr>
+			    	<th>Id</th>
+				    <th>First Name</th>
+				    <th>Last Name</th>
+				    <th>Email</th>
+				    <th>Gender</th>
+				    <th>Number</th>
+				    <th>Role</th>
+			    </tr>
+		  	</thead>
+		  	{{#each data}}
+		     	<tbody>
+			    	<tr>
+				      <th scope="row">{{password}}</th>
+				      <td>{{fname}}</td>
+				      <td>{{lname}}</td>
+				      <td>{{email}}</td>
+				      <td>{{gender}}</td>
+				      <td>{{number}}</td>
+				      <td>{{role}}</td>
+			    	</tr>
+		  		</tbody>   
+		  	{{/each}}
+		  	<tbody>
+		    	<tr>
+			    	<form method="POST" action="/asigned_roles">
+			    		<th></th>
+				      <td><input type="text" name="userId" placeholder="Enter Id"></td>
+				      <td><input type="text" name="role" placeholder="Enter Role"></td>
+				      <td><button type="submit" class="btn btn-primary">Assign Role</button></td>
+				      <td></td>
+				      <td></td>
+			    	</form>
+		    	</tr>
+	  		</tbody> 
+		</table>
+  	</div>
+  	<input type="text" name="text" id="token" value="{{token}}" style="visibility:hidden;">
+	  	<script type="text/javascript">
+		var token=document.getElementById("token").value;
+		localStorage.setItem("token",token);
+		</script>
+</body>
+</html>

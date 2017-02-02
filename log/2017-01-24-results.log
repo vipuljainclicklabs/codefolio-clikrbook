@@ -1,0 +1,1337 @@
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:07:48 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:07:50 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:07:51 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:07:51 PM"}
+{"level":"info","message":"2017-01-24T06:37:53.609Z '127.0.0.1: GET / --> 200'","timestamp":"12:07:53 PM"}
+{"level":"info","message":"2017-01-24T06:37:53.749Z '127.0.0.1: GET /style/main.css --> 304'","timestamp":"12:07:53 PM"}
+{"level":"info","message":"2017-01-24T06:37:53.790Z '127.0.0.1: GET /script/script.js --> 304'","timestamp":"12:07:53 PM"}
+{"level":"info","message":"2017-01-24T06:37:53.810Z '127.0.0.1: GET /img/name1.png --> 304'","timestamp":"12:07:53 PM"}
+{"level":"info","message":"2017-01-24T06:37:53.905Z '127.0.0.1: GET /img/name2.png --> 304'","timestamp":"12:07:53 PM"}
+{"level":"info","message":"2017-01-24T06:37:53.960Z '127.0.0.1: GET /img/logo_small.png --> 304'","timestamp":"12:07:53 PM"}
+{"level":"info","message":"2017-01-24T06:37:54.006Z '127.0.0.1: GET /img/s1.png --> 304'","timestamp":"12:07:54 PM"}
+{"level":"info","message":"2017-01-24T06:37:54.051Z '127.0.0.1: GET /img/separator.png --> 304'","timestamp":"12:07:54 PM"}
+{"level":"info","message":"2017-01-24T06:37:54.078Z '127.0.0.1: GET /img/contact.png --> 304'","timestamp":"12:07:54 PM"}
+{"level":"info","message":"2017-01-24T06:37:54.111Z '127.0.0.1: GET /img/s3.png --> 304'","timestamp":"12:07:54 PM"}
+{"level":"info","message":"2017-01-24T06:37:54.129Z '127.0.0.1: GET /img/billboard2.jpg --> 304'","timestamp":"12:07:54 PM"}
+{"level":"info","message":"2017-01-24T06:37:54.730Z '127.0.0.1: GET /favicon.ico --> 404'","timestamp":"12:07:54 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:08:46 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:09:46 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:10:46 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:11:46 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:12:46 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:13:46 PM"}
+{"level":"info","message":"2017-01-24T06:44:00.581Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"12:14:00 PM"}
+{"level":"info","message":"2017-01-24T06:44:00.665Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"12:14:00 PM"}
+{"level":"info","message":"2017-01-24T06:44:00.741Z '127.0.0.1: GET /script/clickerbook.js --> 200'","timestamp":"12:14:00 PM"}
+{"level":"info","message":"2017-01-24T06:44:00.769Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"12:14:00 PM"}
+{"level":"info","message":"2017-01-24T06:44:00.825Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"12:14:00 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:14:46 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:15:46 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:16:46 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:17:46 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:18:46 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:19:46 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:20:46 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:21:46 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:22:46 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:23:46 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:24:21 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:24:24 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:24:24 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:24:24 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:26:49 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:27:49 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:28:49 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:29:49 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:30:49 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:30:59 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:31:01 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:31:01 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:31:01 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:31:57 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:31:59 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:32:00 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:32:00 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:32:27 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:32:30 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:32:30 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:32:30 PM"}
+{"level":"info","message":"2017-01-24T07:03:13.380Z '127.0.0.1: POST /loggedin.html --> 500'","timestamp":"12:33:13 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:33:26 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:24:04 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:24:07 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:24:07 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:24:07 PM"}
+{"level":"info","message":"2017-01-24T07:54:39.336Z '127.0.0.1: GET /clickrbook.html --> 200'","timestamp":"1:24:39 PM"}
+{"level":"info","message":"2017-01-24T07:54:39.457Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"1:24:39 PM"}
+{"level":"info","message":"2017-01-24T07:54:39.496Z '127.0.0.1: GET /script/clickerbook.js --> 200'","timestamp":"1:24:39 PM"}
+{"level":"info","message":"2017-01-24T07:54:39.513Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"1:24:39 PM"}
+{"level":"info","message":"2017-01-24T07:54:39.536Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"1:24:39 PM"}
+{"level":"info","message":"2017-01-24T07:54:58.887Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"1:24:58 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:25:02 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:25:41 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:25:43 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:25:43 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:25:43 PM"}
+{"level":"info","message":"2017-01-24T07:55:45.285Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"1:25:45 PM"}
+{"level":"info","message":"2017-01-24T07:55:45.387Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"1:25:45 PM"}
+{"level":"info","message":"2017-01-24T07:55:45.476Z '127.0.0.1: GET /script/clickerbook.js --> 200'","timestamp":"1:25:45 PM"}
+{"level":"info","message":"2017-01-24T07:55:45.497Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"1:25:45 PM"}
+{"level":"info","message":"2017-01-24T07:55:45.657Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"1:25:45 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:26:49 PM"}
+{"level":"info","message":"2017-01-24T07:57:01.916Z '127.0.0.1: POST /check_access --> 500'","timestamp":"1:27:01 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:27:32 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:27:34 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:27:34 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:27:34 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:28:31 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:28:52 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:28:54 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:28:54 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:28:54 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:29:50 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:30:50 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:31:50 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:32:28 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:32:31 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:32:32 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:32:32 PM"}
+{"level":"info","message":"2017-01-24T08:02:38.269Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"1:32:38 PM"}
+{"level":"info","message":"2017-01-24T08:02:38.384Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"1:32:38 PM"}
+{"level":"info","message":"2017-01-24T08:02:38.396Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"1:32:38 PM"}
+{"level":"info","message":"2017-01-24T08:02:38.435Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"1:32:38 PM"}
+{"level":"info","message":"2017-01-24T08:02:38.487Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"1:32:38 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:33:16 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:33:19 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:33:20 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:33:20 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:39:01 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:39:04 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:39:04 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:39:04 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:40:00 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:40:02 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:40:03 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:40:03 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:40:26 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:40:28 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:40:28 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:40:28 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:41:24 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:42:24 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:42:39 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:42:41 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:42:41 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:42:41 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:43:28 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:43:30 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:43:30 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:43:30 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:44:09 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:44:11 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:44:11 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:44:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:50:22 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"3:14:32 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:05:59 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:06:01 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:06:01 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:06:01 PM"}
+{"level":"info","message":"2017-01-24T10:36:10.390Z '127.0.0.1: POST /check_access --> 500'","timestamp":"4:06:10 PM"}
+{"level":"info","message":"2017-01-24T10:36:10.616Z '127.0.0.1: GET /favicon.ico --> 404'","timestamp":"4:06:10 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:06:40 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:06:43 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:06:43 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:06:43 PM"}
+{"level":"info","message":"2017-01-24T10:36:45.779Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:06:45 PM"}
+{"level":"info","message":"2017-01-24T10:36:45.892Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:06:45 PM"}
+{"level":"info","message":"2017-01-24T10:36:45.928Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:06:45 PM"}
+{"level":"info","message":"2017-01-24T10:37:20.777Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:07:20 PM"}
+{"level":"info","message":"2017-01-24T10:37:20.854Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:07:20 PM"}
+{"level":"info","message":"2017-01-24T10:37:20.902Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:07:20 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:07:38 PM"}
+{"level":"info","message":"2017-01-24T10:37:52.209Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"4:07:52 PM"}
+{"level":"info","message":"2017-01-24T10:37:52.334Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"4:07:52 PM"}
+{"level":"info","message":"2017-01-24T10:37:52.395Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"4:07:52 PM"}
+{"level":"info","message":"2017-01-24T10:37:52.424Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"4:07:52 PM"}
+{"level":"info","message":"2017-01-24T10:37:52.491Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"4:07:52 PM"}
+{"level":"info","message":"2017-01-24T10:38:01.906Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:08:01 PM"}
+{"level":"info","message":"2017-01-24T10:38:01.986Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:08:01 PM"}
+{"level":"info","message":"2017-01-24T10:38:01.999Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:08:02 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:08:34 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:08:36 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:08:37 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:08:37 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:08:49 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:08:52 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:08:52 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:08:52 PM"}
+{"level":"info","message":"2017-01-24T10:39:00.551Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:09:00 PM"}
+{"level":"info","message":"2017-01-24T10:39:00.672Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"4:09:00 PM"}
+{"level":"info","message":"2017-01-24T10:39:00.685Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"4:09:00 PM"}
+{"level":"info","message":"2017-01-24T10:39:00.742Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"4:09:00 PM"}
+{"level":"info","message":"2017-01-24T10:39:00.774Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"4:09:00 PM"}
+{"level":"info","message":"2017-01-24T10:39:08.510Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:09:08 PM"}
+{"level":"info","message":"2017-01-24T10:39:08.625Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"4:09:08 PM"}
+{"level":"info","message":"2017-01-24T10:39:08.634Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"4:09:08 PM"}
+{"level":"info","message":"2017-01-24T10:39:08.664Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"4:09:08 PM"}
+{"level":"info","message":"2017-01-24T10:39:08.690Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"4:09:08 PM"}
+{"level":"info","message":"2017-01-24T10:39:39.922Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:09:39 PM"}
+{"level":"info","message":"2017-01-24T10:39:40.002Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"4:09:40 PM"}
+{"level":"info","message":"2017-01-24T10:39:40.010Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"4:09:40 PM"}
+{"level":"info","message":"2017-01-24T10:39:40.056Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"4:09:40 PM"}
+{"level":"info","message":"2017-01-24T10:39:40.089Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"4:09:40 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:09:48 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:10:14 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:10:16 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:10:16 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:10:16 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:10:29 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:10:31 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:10:31 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:10:31 PM"}
+{"level":"info","message":"2017-01-24T10:40:36.856Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:10:36 PM"}
+{"level":"info","message":"2017-01-24T10:40:36.951Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"4:10:36 PM"}
+{"level":"info","message":"2017-01-24T10:40:37.009Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"4:10:37 PM"}
+{"level":"info","message":"2017-01-24T10:40:37.021Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"4:10:37 PM"}
+{"level":"info","message":"2017-01-24T10:40:37.051Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"4:10:37 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:10:52 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:10:54 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:10:55 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:10:55 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:11:06 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:11:08 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:11:08 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:11:08 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:11:13 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:11:16 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:11:16 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:11:16 PM"}
+{"level":"info","message":"2017-01-24T10:41:19.484Z '127.0.0.1: GET / --> 304'","timestamp":"4:11:19 PM"}
+{"level":"info","message":"2017-01-24T10:41:19.643Z '127.0.0.1: GET /style/main.css --> 304'","timestamp":"4:11:19 PM"}
+{"level":"info","message":"2017-01-24T10:41:19.689Z '127.0.0.1: GET /script/script.js --> 304'","timestamp":"4:11:19 PM"}
+{"level":"info","message":"2017-01-24T10:41:19.754Z '127.0.0.1: GET /img/name1.png --> 304'","timestamp":"4:11:19 PM"}
+{"level":"info","message":"2017-01-24T10:41:19.798Z '127.0.0.1: GET /img/name2.png --> 304'","timestamp":"4:11:19 PM"}
+{"level":"info","message":"2017-01-24T10:41:19.866Z '127.0.0.1: GET /img/logo_small.png --> 304'","timestamp":"4:11:19 PM"}
+{"level":"info","message":"2017-01-24T10:41:19.898Z '127.0.0.1: GET /img/separator.png --> 304'","timestamp":"4:11:19 PM"}
+{"level":"info","message":"2017-01-24T10:41:19.931Z '127.0.0.1: GET /img/s1.png --> 304'","timestamp":"4:11:19 PM"}
+{"level":"info","message":"2017-01-24T10:41:19.963Z '127.0.0.1: GET /img/billboard2.jpg --> 304'","timestamp":"4:11:19 PM"}
+{"level":"info","message":"2017-01-24T10:41:20.026Z '127.0.0.1: GET /img/contact.png --> 304'","timestamp":"4:11:20 PM"}
+{"level":"info","message":"2017-01-24T10:41:20.043Z '127.0.0.1: GET /img/s3.png --> 304'","timestamp":"4:11:20 PM"}
+{"level":"info","message":"2017-01-24T10:41:22.662Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"4:11:22 PM"}
+{"level":"info","message":"2017-01-24T10:41:22.762Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"4:11:22 PM"}
+{"level":"info","message":"2017-01-24T10:41:22.772Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"4:11:22 PM"}
+{"level":"info","message":"2017-01-24T10:41:22.808Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"4:11:22 PM"}
+{"level":"info","message":"2017-01-24T10:41:22.840Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"4:11:22 PM"}
+{"level":"info","message":"2017-01-24T10:41:28.851Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:11:28 PM"}
+{"level":"info","message":"2017-01-24T10:41:28.896Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"4:11:28 PM"}
+{"level":"info","message":"2017-01-24T10:41:28.922Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"4:11:28 PM"}
+{"level":"info","message":"2017-01-24T10:41:28.949Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"4:11:28 PM"}
+{"level":"info","message":"2017-01-24T10:41:28.983Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"4:11:28 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:12:11 PM"}
+{"level":"info","message":"2017-01-24T10:42:36.548Z '127.0.0.1: GET /cada --> 404'","timestamp":"4:12:36 PM"}
+{"level":"info","message":"2017-01-24T10:42:41.410Z '127.0.0.1: GET / --> 304'","timestamp":"4:12:41 PM"}
+{"level":"info","message":"2017-01-24T10:42:41.522Z '127.0.0.1: GET /style/main.css --> 304'","timestamp":"4:12:41 PM"}
+{"level":"info","message":"2017-01-24T10:42:41.543Z '127.0.0.1: GET /script/script.js --> 304'","timestamp":"4:12:41 PM"}
+{"level":"info","message":"2017-01-24T10:42:41.586Z '127.0.0.1: GET /img/name1.png --> 304'","timestamp":"4:12:41 PM"}
+{"level":"info","message":"2017-01-24T10:42:41.611Z '127.0.0.1: GET /img/name2.png --> 304'","timestamp":"4:12:41 PM"}
+{"level":"info","message":"2017-01-24T10:42:41.638Z '127.0.0.1: GET /img/logo_small.png --> 304'","timestamp":"4:12:41 PM"}
+{"level":"info","message":"2017-01-24T10:42:41.667Z '127.0.0.1: GET /img/billboard2.jpg --> 304'","timestamp":"4:12:41 PM"}
+{"level":"info","message":"2017-01-24T10:42:41.699Z '127.0.0.1: GET /img/separator.png --> 304'","timestamp":"4:12:41 PM"}
+{"level":"info","message":"2017-01-24T10:42:41.738Z '127.0.0.1: GET /img/s1.png --> 304'","timestamp":"4:12:41 PM"}
+{"level":"info","message":"2017-01-24T10:42:41.766Z '127.0.0.1: GET /img/contact.png --> 304'","timestamp":"4:12:41 PM"}
+{"level":"info","message":"2017-01-24T10:42:41.794Z '127.0.0.1: GET /img/s3.png --> 304'","timestamp":"4:12:41 PM"}
+{"level":"info","message":"2017-01-24T10:42:43.028Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"4:12:43 PM"}
+{"level":"info","message":"2017-01-24T10:42:43.104Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"4:12:43 PM"}
+{"level":"info","message":"2017-01-24T10:42:43.120Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"4:12:43 PM"}
+{"level":"info","message":"2017-01-24T10:42:43.156Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"4:12:43 PM"}
+{"level":"info","message":"2017-01-24T10:42:43.187Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"4:12:43 PM"}
+{"level":"info","message":"2017-01-24T10:42:54.982Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:12:54 PM"}
+{"level":"info","message":"2017-01-24T10:42:55.052Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"4:12:55 PM"}
+{"level":"info","message":"2017-01-24T10:42:55.076Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"4:12:55 PM"}
+{"level":"info","message":"2017-01-24T10:42:55.103Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"4:12:55 PM"}
+{"level":"info","message":"2017-01-24T10:42:55.137Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"4:12:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:13:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:14:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:15:11 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:16:04 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:16:07 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:16:07 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:16:07 PM"}
+{"level":"info","message":"2017-01-24T10:46:14.212Z '127.0.0.1: GET /clickerbook --> 404'","timestamp":"4:16:14 PM"}
+{"level":"info","message":"2017-01-24T10:47:00.857Z '127.0.0.1: GET /clickrbook --> 404'","timestamp":"4:17:00 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:17:02 PM"}
+{"level":"info","message":"2017-01-24T10:47:07.180Z '127.0.0.1: GET /clickrbook --> 404'","timestamp":"4:17:07 PM"}
+{"level":"info","message":"2017-01-24T10:47:10.342Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"4:17:10 PM"}
+{"level":"info","message":"2017-01-24T10:47:10.426Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"4:17:10 PM"}
+{"level":"info","message":"2017-01-24T10:47:10.443Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"4:17:10 PM"}
+{"level":"info","message":"2017-01-24T10:47:10.524Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"4:17:10 PM"}
+{"level":"info","message":"2017-01-24T10:47:10.560Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"4:17:10 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:18:02 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:18:54 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:18:56 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:18:57 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:18:57 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:19:40 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:19:43 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:19:43 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:19:43 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:20:38 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:21:01 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:21:04 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:21:04 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:21:04 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:21:10 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:21:13 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:21:13 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:21:13 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:22:03 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:22:05 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:22:06 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:22:06 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:22:29 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:22:31 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:22:31 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:22:31 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:22:49 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:22:52 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:22:52 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:22:52 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:23:38 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:23:41 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:23:41 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:23:41 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:24:04 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:24:07 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:24:07 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:24:07 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:24:29 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:24:31 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:24:32 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:24:32 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:24:47 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:24:49 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:24:49 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:24:49 PM"}
+{"level":"info","message":"2017-01-24T10:54:53.062Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:24:53 PM"}
+{"level":"info","message":"2017-01-24T10:54:53.157Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:24:53 PM"}
+{"level":"info","message":"2017-01-24T10:54:53.186Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:24:53 PM"}
+{"level":"info","message":"2017-01-24T10:55:05.053Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:25:05 PM"}
+{"level":"info","message":"2017-01-24T10:55:05.118Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:25:05 PM"}
+{"level":"info","message":"2017-01-24T10:55:05.143Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:25:05 PM"}
+{"level":"info","message":"2017-01-24T10:55:07.906Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"4:25:07 PM"}
+{"level":"info","message":"2017-01-24T10:55:07.973Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"4:25:07 PM"}
+{"level":"info","message":"2017-01-24T10:55:08.021Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"4:25:08 PM"}
+{"level":"info","message":"2017-01-24T10:55:08.114Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"4:25:08 PM"}
+{"level":"info","message":"2017-01-24T10:55:08.181Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"4:25:08 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:25:45 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:25:47 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:25:47 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:25:47 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:25:52 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:25:54 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:25:54 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:25:54 PM"}
+{"level":"info","message":"2017-01-24T10:55:55.011Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"4:25:55 PM"}
+{"level":"info","message":"2017-01-24T10:55:55.132Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"4:25:55 PM"}
+{"level":"info","message":"2017-01-24T10:55:55.163Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"4:25:55 PM"}
+{"level":"info","message":"2017-01-24T10:55:55.197Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"4:25:55 PM"}
+{"level":"info","message":"2017-01-24T10:55:55.272Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"4:25:55 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:26:37 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:26:40 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:26:40 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:26:40 PM"}
+{"level":"info","message":"2017-01-24T10:56:45.907Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:26:45 PM"}
+{"level":"info","message":"2017-01-24T10:56:46.018Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"4:26:46 PM"}
+{"level":"info","message":"2017-01-24T10:56:46.048Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"4:26:46 PM"}
+{"level":"info","message":"2017-01-24T10:56:46.098Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"4:26:46 PM"}
+{"level":"info","message":"2017-01-24T10:56:46.134Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"4:26:46 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:27:06 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:27:09 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:27:09 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:27:09 PM"}
+{"level":"info","message":"2017-01-24T10:57:14.191Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:27:14 PM"}
+{"level":"info","message":"2017-01-24T10:57:14.291Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:27:14 PM"}
+{"level":"info","message":"2017-01-24T10:57:14.313Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:27:14 PM"}
+{"level":"info","message":"2017-01-24T10:57:23.701Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:27:23 PM"}
+{"level":"info","message":"2017-01-24T10:57:23.766Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:27:23 PM"}
+{"level":"info","message":"2017-01-24T10:57:23.788Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:27:23 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:28:04 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:29:04 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:30:04 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:30:59 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:31:02 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:31:02 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:31:02 PM"}
+{"level":"info","message":"2017-01-24T11:01:07.659Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:31:07 PM"}
+{"level":"info","message":"2017-01-24T11:01:07.749Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:31:07 PM"}
+{"level":"info","message":"2017-01-24T11:01:07.781Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:31:07 PM"}
+{"level":"info","message":"2017-01-24T11:01:55.391Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"4:31:55 PM"}
+{"level":"info","message":"2017-01-24T11:01:55.478Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"4:31:55 PM"}
+{"level":"info","message":"2017-01-24T11:01:55.578Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"4:31:55 PM"}
+{"level":"info","message":"2017-01-24T11:01:55.729Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"4:31:55 PM"}
+{"level":"info","message":"2017-01-24T11:01:55.785Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"4:31:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:31:58 PM"}
+{"level":"info","message":"2017-01-24T11:02:02.643Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:32:02 PM"}
+{"level":"info","message":"2017-01-24T11:02:02.697Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:32:02 PM"}
+{"level":"info","message":"2017-01-24T11:02:02.712Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:32:02 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:32:58 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:33:21 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:33:28 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:33:30 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:33:30 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:33:30 PM"}
+{"level":"info","message":"2017-01-24T11:03:40.617Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:33:40 PM"}
+{"level":"info","message":"2017-01-24T11:03:40.714Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"4:33:40 PM"}
+{"level":"info","message":"2017-01-24T11:03:40.746Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"4:33:40 PM"}
+{"level":"info","message":"2017-01-24T11:03:40.773Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"4:33:40 PM"}
+{"level":"info","message":"2017-01-24T11:03:40.813Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"4:33:40 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:34:26 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:34:35 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:34:38 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:34:38 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:34:38 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:35:06 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:35:08 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:35:08 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:35:08 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:35:28 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:35:30 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:35:30 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:35:30 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:36:26 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:37:06 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:37:08 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:37:08 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:37:08 PM"}
+{"level":"info","message":"2017-01-24T11:07:19.809Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:37:19 PM"}
+{"level":"info","message":"2017-01-24T11:07:19.904Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:37:19 PM"}
+{"level":"info","message":"2017-01-24T11:07:19.933Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:37:19 PM"}
+{"level":"info","message":"2017-01-24T11:07:25.882Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"4:37:25 PM"}
+{"level":"info","message":"2017-01-24T11:07:25.977Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"4:37:25 PM"}
+{"level":"info","message":"2017-01-24T11:07:25.998Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"4:37:26 PM"}
+{"level":"info","message":"2017-01-24T11:07:26.035Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"4:37:26 PM"}
+{"level":"info","message":"2017-01-24T11:07:26.093Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"4:37:26 PM"}
+{"level":"info","message":"2017-01-24T11:07:32.640Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:37:32 PM"}
+{"level":"info","message":"2017-01-24T11:07:32.734Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:37:32 PM"}
+{"level":"info","message":"2017-01-24T11:07:32.748Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:37:32 PM"}
+{"level":"info","message":"2017-01-24T11:07:37.154Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:37:37 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:38:04 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:39:04 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:40:04 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:40:28 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:40:30 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:40:30 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:40:30 PM"}
+{"level":"info","message":"2017-01-24T11:11:19.626Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:41:19 PM"}
+{"level":"info","message":"2017-01-24T11:11:19.737Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:41:19 PM"}
+{"level":"info","message":"2017-01-24T11:11:19.765Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:41:19 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:41:26 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:42:11 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:42:14 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:42:14 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:42:14 PM"}
+{"level":"info","message":"2017-01-24T11:12:19.951Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:42:19 PM"}
+{"level":"info","message":"2017-01-24T11:12:20.045Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:42:20 PM"}
+{"level":"info","message":"2017-01-24T11:12:20.072Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:42:20 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:43:09 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:44:09 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:45:09 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:45:18 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:45:21 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:45:21 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:45:21 PM"}
+{"level":"info","message":"2017-01-24T11:15:25.202Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:45:25 PM"}
+{"level":"info","message":"2017-01-24T11:15:25.368Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:45:25 PM"}
+{"level":"info","message":"2017-01-24T11:15:25.384Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:45:25 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:46:16 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:47:00 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:47:03 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:47:03 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:47:03 PM"}
+{"level":"info","message":"2017-01-24T11:17:08.277Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:47:08 PM"}
+{"level":"info","message":"2017-01-24T11:17:08.410Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:47:08 PM"}
+{"level":"info","message":"2017-01-24T11:17:08.422Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:47:08 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:47:45 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:47:47 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:47:48 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:47:48 PM"}
+{"level":"info","message":"2017-01-24T11:17:52.274Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:47:52 PM"}
+{"level":"info","message":"2017-01-24T11:17:52.396Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:47:52 PM"}
+{"level":"info","message":"2017-01-24T11:17:52.414Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:47:52 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:48:43 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:49:43 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:50:43 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:51:43 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:51:53 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:51:55 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:51:55 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:51:55 PM"}
+{"level":"info","message":"2017-01-24T11:21:59.638Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:51:59 PM"}
+{"level":"info","message":"2017-01-24T11:21:59.742Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:51:59 PM"}
+{"level":"info","message":"2017-01-24T11:21:59.750Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:51:59 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:52:50 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:53:43 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:53:45 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:53:45 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:53:45 PM"}
+{"level":"info","message":"2017-01-24T11:23:52.474Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:53:52 PM"}
+{"level":"info","message":"2017-01-24T11:23:52.591Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:53:52 PM"}
+{"level":"info","message":"2017-01-24T11:23:52.600Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:53:52 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:54:41 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:55:05 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:55:07 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:55:08 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:55:08 PM"}
+{"level":"info","message":"2017-01-24T11:25:11.531Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:55:11 PM"}
+{"level":"info","message":"2017-01-24T11:25:11.642Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:55:11 PM"}
+{"level":"info","message":"2017-01-24T11:25:11.668Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:55:11 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:55:48 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:55:50 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:55:50 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:55:50 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:55:55 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:55:58 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:55:58 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:55:58 PM"}
+{"level":"info","message":"2017-01-24T11:26:01.706Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:56:01 PM"}
+{"level":"info","message":"2017-01-24T11:26:01.823Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:56:01 PM"}
+{"level":"info","message":"2017-01-24T11:26:01.835Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:56:01 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:56:20 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:56:22 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:56:23 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:56:23 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"4:56:28 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"4:56:31 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"4:56:31 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"4:56:31 PM"}
+{"level":"info","message":"2017-01-24T11:27:17.686Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:57:17 PM"}
+{"level":"info","message":"2017-01-24T11:27:17.791Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:57:17 PM"}
+{"level":"info","message":"2017-01-24T11:27:17.800Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:57:17 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:57:27 PM"}
+{"level":"info","message":"2017-01-24T11:27:38.543Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"4:57:38 PM"}
+{"level":"info","message":"2017-01-24T11:27:38.673Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"4:57:38 PM"}
+{"level":"info","message":"2017-01-24T11:27:38.730Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"4:57:38 PM"}
+{"level":"info","message":"2017-01-24T11:27:38.766Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"4:57:38 PM"}
+{"level":"info","message":"2017-01-24T11:27:38.815Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"4:57:38 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:58:27 PM"}
+{"level":"info","message":"2017-01-24T11:29:18.192Z '127.0.0.1: POST /check_access --> 200'","timestamp":"4:59:18 PM"}
+{"level":"info","message":"2017-01-24T11:29:18.291Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"4:59:18 PM"}
+{"level":"info","message":"2017-01-24T11:29:18.332Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"4:59:18 PM"}
+{"level":"info","message":"2017-01-24T11:29:23.147Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"4:59:23 PM"}
+{"level":"info","message":"2017-01-24T11:29:23.244Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"4:59:23 PM"}
+{"level":"info","message":"2017-01-24T11:29:23.283Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"4:59:23 PM"}
+{"level":"info","message":"2017-01-24T11:29:23.357Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"4:59:23 PM"}
+{"level":"info","message":"2017-01-24T11:29:23.386Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"4:59:23 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"4:59:27 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:13:52 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:13:53 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:13:54 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:13:54 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:14:50 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:15:04 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:15:06 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:15:07 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:15:07 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:15:16 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:15:18 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:15:18 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:15:18 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:15:24 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:15:27 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:15:27 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:15:27 PM"}
+{"level":"info","message":"2017-01-24T11:45:35.663Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"5:15:35 PM"}
+{"level":"info","message":"2017-01-24T11:45:35.775Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"5:15:35 PM"}
+{"level":"info","message":"2017-01-24T11:45:35.797Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"5:15:35 PM"}
+{"level":"info","message":"2017-01-24T11:45:35.855Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"5:15:35 PM"}
+{"level":"info","message":"2017-01-24T11:45:35.880Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"5:15:35 PM"}
+{"level":"info","message":"2017-01-24T11:46:07.979Z '127.0.0.1: POST /loggedin.html --> 200'","timestamp":"5:16:07 PM"}
+{"level":"info","message":"2017-01-24T11:46:08.057Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"5:16:08 PM"}
+{"level":"info","message":"2017-01-24T11:46:08.072Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"5:16:08 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:16:23 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:18:05 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:18:07 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:18:07 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:18:07 PM"}
+{"level":"info","message":"2017-01-24T11:48:11.377Z '127.0.0.1: POST /loggedin.html --> 200'","timestamp":"5:18:11 PM"}
+{"level":"info","message":"2017-01-24T11:48:11.479Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"5:18:11 PM"}
+{"level":"info","message":"2017-01-24T11:48:11.491Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"5:18:11 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:20:25 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:20:28 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:20:28 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:20:28 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:21:23 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:21:43 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:21:45 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:21:45 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:21:45 PM"}
+{"level":"info","message":"2017-01-24T11:51:50.796Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"5:21:50 PM"}
+{"level":"info","message":"2017-01-24T11:51:50.885Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"5:21:50 PM"}
+{"level":"info","message":"2017-01-24T11:51:50.902Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"5:21:50 PM"}
+{"level":"info","message":"2017-01-24T11:51:50.933Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"5:21:50 PM"}
+{"level":"info","message":"2017-01-24T11:51:51.002Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"5:21:51 PM"}
+{"level":"info","message":"2017-01-24T11:51:59.318Z '127.0.0.1: POST /check_access --> 200'","timestamp":"5:21:59 PM"}
+{"level":"info","message":"2017-01-24T11:51:59.371Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"5:21:59 PM"}
+{"level":"info","message":"2017-01-24T11:51:59.381Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"5:21:59 PM"}
+{"level":"info","message":"2017-01-24T11:52:03.956Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"5:22:03 PM"}
+{"level":"info","message":"2017-01-24T11:52:04.054Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"5:22:04 PM"}
+{"level":"info","message":"2017-01-24T11:52:04.072Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"5:22:04 PM"}
+{"level":"info","message":"2017-01-24T11:52:04.121Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"5:22:04 PM"}
+{"level":"info","message":"2017-01-24T11:52:04.151Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"5:22:04 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:22:41 PM"}
+{"level":"info","message":"2017-01-24T11:53:14.945Z '127.0.0.1: POST /check_access --> 200'","timestamp":"5:23:14 PM"}
+{"level":"info","message":"2017-01-24T11:53:15.038Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"5:23:15 PM"}
+{"level":"info","message":"2017-01-24T11:53:15.081Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"5:23:15 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:24:25 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:24:27 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:24:28 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:24:28 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:24:43 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:24:45 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:24:45 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:24:45 PM"}
+{"level":"info","message":"2017-01-24T11:54:52.009Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"5:24:52 PM"}
+{"level":"info","message":"2017-01-24T11:54:52.079Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"5:24:52 PM"}
+{"level":"info","message":"2017-01-24T11:54:52.103Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"5:24:52 PM"}
+{"level":"info","message":"2017-01-24T11:54:52.391Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"5:24:52 PM"}
+{"level":"info","message":"2017-01-24T11:54:52.428Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"5:24:52 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:26:13 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:26:16 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:26:16 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:26:16 PM"}
+{"level":"info","message":"2017-01-24T11:56:24.336Z '127.0.0.1: POST /check_access --> 200'","timestamp":"5:26:24 PM"}
+{"level":"info","message":"2017-01-24T11:56:24.403Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"5:26:24 PM"}
+{"level":"info","message":"2017-01-24T11:56:24.431Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"5:26:24 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:27:59 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:28:02 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:28:02 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:28:02 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:28:58 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:29:58 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:30:58 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:31:41 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:31:43 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:31:43 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:31:43 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:31:55 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:31:57 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:31:57 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:31:57 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:32:10 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:32:12 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:32:12 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:32:12 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:33:36 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:33:38 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:33:39 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:33:39 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:33:47 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:33:49 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:33:50 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:33:50 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:35:01 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:35:03 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:35:03 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:35:03 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:35:58 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:36:00 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:36:00 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:36:00 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:36:15 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:36:17 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:36:18 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:36:18 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:37:08 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:37:10 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:37:10 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:37:10 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:38:06 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:39:06 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:40:06 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:40:53 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:40:56 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:40:56 PM"}
+{"level":"info","message":"2017-01-24T12:10:56.534Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"5:40:56 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:40:56 PM"}
+{"level":"info","message":"2017-01-24T12:10:56.651Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"5:40:56 PM"}
+{"level":"info","message":"2017-01-24T12:10:56.677Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"5:40:56 PM"}
+{"level":"info","message":"2017-01-24T12:10:56.751Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"5:40:56 PM"}
+{"level":"info","message":"2017-01-24T12:10:56.796Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"5:40:56 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:41:28 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:41:31 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:41:31 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:41:31 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:45:46 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:45:49 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:45:49 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:45:49 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:52:42 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:52:44 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:52:44 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:52:44 PM"}
+{"level":"info","message":"2017-01-24T12:22:52.511Z '127.0.0.1: POST /check_access --> 500'","timestamp":"5:52:52 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:53:40 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:54:40 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"5:55:00 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"5:55:03 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"5:55:03 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"5:55:03 PM"}
+{"level":"info","message":"2017-01-24T12:25:21.415Z '127.0.0.1: POST /check_access --> 200'","timestamp":"5:55:21 PM"}
+{"level":"info","message":"2017-01-24T12:25:21.533Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"5:55:21 PM"}
+{"level":"info","message":"2017-01-24T12:25:21.566Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"5:55:21 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:55:59 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:56:59 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"5:59:01 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:00:01 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"6:24:28 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"6:24:30 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"6:24:30 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"6:24:31 PM"}
+{"level":"info","message":"2017-01-24T12:54:39.871Z '127.0.0.1: POST /check_access --> 200'","timestamp":"6:24:39 PM"}
+{"level":"info","message":"2017-01-24T12:54:40.015Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"6:24:40 PM"}
+{"level":"info","message":"2017-01-24T12:54:40.027Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"6:24:40 PM"}
+{"level":"info","message":"2017-01-24T12:54:43.316Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"6:24:43 PM"}
+{"level":"info","message":"2017-01-24T12:54:43.552Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"6:24:43 PM"}
+{"level":"info","message":"2017-01-24T12:54:43.637Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"6:24:43 PM"}
+{"level":"info","message":"2017-01-24T12:54:43.683Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"6:24:43 PM"}
+{"level":"info","message":"2017-01-24T12:54:43.744Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"6:24:43 PM"}
+{"level":"info","message":"2017-01-24T12:54:54.301Z '127.0.0.1: POST /check_access --> 500'","timestamp":"6:24:54 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:31:17 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:31:17 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"6:31:23 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"6:31:26 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"6:31:26 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"6:31:26 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"6:31:51 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"6:31:53 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"6:31:54 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"6:31:54 PM"}
+{"level":"info","message":"2017-01-24T13:02:04.705Z '127.0.0.1: POST /check_access --> 200'","timestamp":"6:32:04 PM"}
+{"level":"info","message":"2017-01-24T13:02:04.807Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"6:32:04 PM"}
+{"level":"info","message":"2017-01-24T13:02:04.815Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"6:32:04 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:32:49 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:33:49 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:34:49 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"6:41:02 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"8:42:50 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"8:42:53 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"8:42:53 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"8:42:53 PM"}
+{"level":"info","message":"2017-01-24T15:12:54.494Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"8:42:54 PM"}
+{"level":"info","message":"2017-01-24T15:12:54.613Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"8:42:54 PM"}
+{"level":"info","message":"2017-01-24T15:12:54.653Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"8:42:54 PM"}
+{"level":"info","message":"2017-01-24T15:12:54.720Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"8:42:54 PM"}
+{"level":"info","message":"2017-01-24T15:12:54.749Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"8:42:54 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"9:45:59 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"9:46:02 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"9:46:02 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"9:46:02 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:10:40 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:10:43 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:10:43 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:10:43 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:11:23 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:11:25 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:11:26 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:11:26 PM"}
+{"level":"info","message":"2017-01-24T16:41:40.830Z '127.0.0.1: POST /check_access --> 200'","timestamp":"10:11:40 PM"}
+{"level":"info","message":"2017-01-24T16:41:40.962Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:11:40 PM"}
+{"level":"info","message":"2017-01-24T16:41:40.986Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:11:40 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:12:21 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:13:21 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:14:21 PM"}
+{"level":"info","message":"2017-01-24T16:44:21.853Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"10:14:21 PM"}
+{"level":"info","message":"2017-01-24T16:44:21.915Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"10:14:21 PM"}
+{"level":"info","message":"2017-01-24T16:44:21.951Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"10:14:21 PM"}
+{"level":"info","message":"2017-01-24T16:44:22.003Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"10:14:22 PM"}
+{"level":"info","message":"2017-01-24T16:44:22.031Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"10:14:22 PM"}
+{"level":"info","message":"2017-01-24T16:44:28.864Z '127.0.0.1: POST /check_access --> 200'","timestamp":"10:14:28 PM"}
+{"level":"info","message":"2017-01-24T16:44:28.957Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:14:28 PM"}
+{"level":"info","message":"2017-01-24T16:44:28.974Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:14:28 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:15:21 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:16:21 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:17:21 PM"}
+{"level":"info","message":"2017-01-24T16:48:05.725Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"10:18:05 PM"}
+{"level":"info","message":"2017-01-24T16:48:05.770Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"10:18:05 PM"}
+{"level":"info","message":"2017-01-24T16:48:05.809Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"10:18:05 PM"}
+{"level":"info","message":"2017-01-24T16:48:05.829Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"10:18:05 PM"}
+{"level":"info","message":"2017-01-24T16:48:05.861Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"10:18:05 PM"}
+{"level":"info","message":"2017-01-24T16:48:13.708Z '127.0.0.1: POST /check_access --> 200'","timestamp":"10:18:13 PM"}
+{"level":"info","message":"2017-01-24T16:48:13.763Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:18:13 PM"}
+{"level":"info","message":"2017-01-24T16:48:13.787Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:18:13 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:18:21 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:18:25 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:18:27 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:18:28 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:18:28 PM"}
+{"level":"info","message":"2017-01-24T16:48:28.315Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"10:18:28 PM"}
+{"level":"info","message":"2017-01-24T16:48:28.383Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"10:18:28 PM"}
+{"level":"info","message":"2017-01-24T16:48:28.463Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"10:18:28 PM"}
+{"level":"info","message":"2017-01-24T16:48:28.495Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"10:18:28 PM"}
+{"level":"info","message":"2017-01-24T16:48:28.540Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"10:18:28 PM"}
+{"level":"info","message":"2017-01-24T16:48:36.131Z '127.0.0.1: POST /check_access --> 200'","timestamp":"10:18:36 PM"}
+{"level":"info","message":"2017-01-24T16:48:36.183Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:18:36 PM"}
+{"level":"info","message":"2017-01-24T16:48:36.236Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:18:36 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:19:23 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:19:41 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:19:43 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:19:43 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:19:43 PM"}
+{"level":"info","message":"2017-01-24T16:49:50.911Z '127.0.0.1: POST /check_access --> 200'","timestamp":"10:19:50 PM"}
+{"level":"info","message":"2017-01-24T16:49:51.011Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:19:51 PM"}
+{"level":"info","message":"2017-01-24T16:49:51.031Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:19:51 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:20:39 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:21:39 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:22:39 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:23:39 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:24:39 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:25:39 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:26:39 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:34:13 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:34:16 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:34:16 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:34:16 PM"}
+{"level":"info","message":"2017-01-24T17:04:23.168Z '127.0.0.1: POST /check_access --> 200'","timestamp":"10:34:23 PM"}
+{"level":"info","message":"2017-01-24T17:04:23.265Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:34:23 PM"}
+{"level":"info","message":"2017-01-24T17:04:23.293Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:34:23 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:35:11 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:35:27 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:35:29 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:35:29 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:35:29 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:35:40 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:35:43 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:35:43 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:35:43 PM"}
+{"level":"info","message":"2017-01-24T17:05:49.175Z '127.0.0.1: POST /check_access --> 200'","timestamp":"10:35:49 PM"}
+{"level":"info","message":"2017-01-24T17:05:49.263Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:35:49 PM"}
+{"level":"info","message":"2017-01-24T17:05:49.299Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:35:49 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:36:16 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:36:18 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:36:19 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:36:19 PM"}
+{"level":"info","message":"2017-01-24T17:06:20.397Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"10:36:20 PM"}
+{"level":"info","message":"2017-01-24T17:06:20.542Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"10:36:20 PM"}
+{"level":"info","message":"2017-01-24T17:06:20.581Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"10:36:20 PM"}
+{"level":"info","message":"2017-01-24T17:06:20.625Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"10:36:20 PM"}
+{"level":"info","message":"2017-01-24T17:06:20.689Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"10:36:20 PM"}
+{"level":"info","message":"2017-01-24T17:06:27.023Z '127.0.0.1: POST /check_access --> 200'","timestamp":"10:36:27 PM"}
+{"level":"info","message":"2017-01-24T17:06:27.115Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:36:27 PM"}
+{"level":"info","message":"2017-01-24T17:06:27.127Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:36:27 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:37:14 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:37:35 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:37:38 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:37:38 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:37:38 PM"}
+{"level":"info","message":"2017-01-24T17:07:44.700Z '127.0.0.1: POST /check_access --> 200'","timestamp":"10:37:44 PM"}
+{"level":"info","message":"2017-01-24T17:07:44.796Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:37:44 PM"}
+{"level":"info","message":"2017-01-24T17:07:44.824Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:37:44 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:38:37 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:38:40 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:38:40 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:38:40 PM"}
+{"level":"info","message":"2017-01-24T17:08:41.241Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"10:38:41 PM"}
+{"level":"info","message":"2017-01-24T17:08:41.361Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"10:38:41 PM"}
+{"level":"info","message":"2017-01-24T17:08:41.386Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"10:38:41 PM"}
+{"level":"info","message":"2017-01-24T17:08:41.784Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"10:38:41 PM"}
+{"level":"info","message":"2017-01-24T17:08:41.845Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"10:38:41 PM"}
+{"level":"info","message":"2017-01-24T17:08:49.971Z '127.0.0.1: POST /check_access --> 200'","timestamp":"10:38:49 PM"}
+{"level":"info","message":"2017-01-24T17:08:50.075Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:38:50 PM"}
+{"level":"info","message":"2017-01-24T17:08:50.095Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:38:50 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:39:12 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:39:15 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:39:15 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:39:15 PM"}
+{"level":"info","message":"2017-01-24T17:09:22.810Z '127.0.0.1: POST /check_access --> 200'","timestamp":"10:39:22 PM"}
+{"level":"info","message":"2017-01-24T17:09:22.916Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:39:22 PM"}
+{"level":"info","message":"2017-01-24T17:09:22.926Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:39:22 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:40:10 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:41:10 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:42:10 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:43:10 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:44:10 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:45:10 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:46:31 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:46:34 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:46:34 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:46:34 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:48:18 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:48:21 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:48:21 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:48:21 PM"}
+{"level":"info","message":"2017-01-24T17:18:35.324Z '127.0.0.1: POST /loggedin.html --> 200'","timestamp":"10:48:35 PM"}
+{"level":"info","message":"2017-01-24T17:18:35.442Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:48:35 PM"}
+{"level":"info","message":"2017-01-24T17:18:35.460Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:48:35 PM"}
+{"level":"info","message":"2017-01-24T17:18:42.550Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"10:48:42 PM"}
+{"level":"info","message":"2017-01-24T17:18:42.652Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"10:48:42 PM"}
+{"level":"info","message":"2017-01-24T17:18:42.790Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"10:48:42 PM"}
+{"level":"info","message":"2017-01-24T17:18:42.832Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"10:48:42 PM"}
+{"level":"info","message":"2017-01-24T17:18:42.877Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"10:48:42 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:49:16 PM"}
+{"level":"info","message":"2017-01-24T17:19:46.025Z '127.0.0.1: POST /loggedin.html --> 200'","timestamp":"10:49:46 PM"}
+{"level":"info","message":"2017-01-24T17:19:46.112Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:49:46 PM"}
+{"level":"info","message":"2017-01-24T17:19:46.126Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:49:46 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:50:16 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:51:16 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:52:13 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:52:16 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:52:16 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:52:16 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:56:18 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:56:21 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:56:21 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:56:21 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:56:26 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:56:29 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:56:29 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:56:29 PM"}
+{"level":"info","message":"2017-01-24T17:26:33.227Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"10:56:33 PM"}
+{"level":"info","message":"2017-01-24T17:26:33.310Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"10:56:33 PM"}
+{"level":"info","message":"2017-01-24T17:26:33.345Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"10:56:33 PM"}
+{"level":"info","message":"2017-01-24T17:26:33.411Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"10:56:33 PM"}
+{"level":"info","message":"2017-01-24T17:26:33.458Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"10:56:33 PM"}
+{"level":"info","message":"2017-01-24T17:26:44.387Z '127.0.0.1: POST /loggedin.html --> 200'","timestamp":"10:56:44 PM"}
+{"level":"info","message":"2017-01-24T17:26:44.443Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:56:44 PM"}
+{"level":"info","message":"2017-01-24T17:26:44.461Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:56:44 PM"}
+{"level":"info","message":"2017-01-24T17:26:54.106Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"10:56:54 PM"}
+{"level":"info","message":"2017-01-24T17:26:54.159Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"10:56:54 PM"}
+{"level":"info","message":"2017-01-24T17:26:54.214Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"10:56:54 PM"}
+{"level":"info","message":"2017-01-24T17:26:54.287Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"10:56:54 PM"}
+{"level":"info","message":"2017-01-24T17:26:54.324Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"10:56:54 PM"}
+{"level":"info","message":"2017-01-24T17:27:06.556Z '127.0.0.1: POST /loggedin.html --> 200'","timestamp":"10:57:06 PM"}
+{"level":"info","message":"2017-01-24T17:27:06.671Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:57:06 PM"}
+{"level":"info","message":"2017-01-24T17:27:06.711Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:57:06 PM"}
+{"level":"info","message":"2017-01-24T17:27:11.332Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"10:57:11 PM"}
+{"level":"info","message":"2017-01-24T17:27:11.421Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"10:57:11 PM"}
+{"level":"info","message":"2017-01-24T17:27:11.453Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"10:57:11 PM"}
+{"level":"info","message":"2017-01-24T17:27:11.510Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"10:57:11 PM"}
+{"level":"info","message":"2017-01-24T17:27:11.541Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"10:57:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:57:24 PM"}
+{"level":"info","message":"2017-01-24T17:27:51.371Z '127.0.0.1: POST /check_access --> 200'","timestamp":"10:57:51 PM"}
+{"level":"info","message":"2017-01-24T17:27:51.425Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:57:51 PM"}
+{"level":"info","message":"2017-01-24T17:27:51.438Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:57:51 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:58:24 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"10:58:56 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"10:58:59 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"10:58:59 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"10:58:59 PM"}
+{"level":"info","message":"2017-01-24T17:29:04.418Z '127.0.0.1: POST /check_access --> 200'","timestamp":"10:59:04 PM"}
+{"level":"info","message":"2017-01-24T17:29:04.524Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:59:04 PM"}
+{"level":"info","message":"2017-01-24T17:29:04.537Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:59:04 PM"}
+{"level":"info","message":"2017-01-24T17:29:28.440Z '127.0.0.1: POST /loggedin.html --> 200'","timestamp":"10:59:28 PM"}
+{"level":"info","message":"2017-01-24T17:29:28.498Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:59:28 PM"}
+{"level":"info","message":"2017-01-24T17:29:28.515Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:59:28 PM"}
+{"level":"info","message":"2017-01-24T17:29:31.537Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"10:59:31 PM"}
+{"level":"info","message":"2017-01-24T17:29:31.613Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"10:59:31 PM"}
+{"level":"info","message":"2017-01-24T17:29:31.667Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"10:59:31 PM"}
+{"level":"info","message":"2017-01-24T17:29:31.724Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"10:59:31 PM"}
+{"level":"info","message":"2017-01-24T17:29:31.764Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"10:59:31 PM"}
+{"level":"info","message":"2017-01-24T17:29:38.089Z '127.0.0.1: POST /check_access --> 200'","timestamp":"10:59:38 PM"}
+{"level":"info","message":"2017-01-24T17:29:38.154Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"10:59:38 PM"}
+{"level":"info","message":"2017-01-24T17:29:38.173Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"10:59:38 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"10:59:54 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:00:13 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:00:15 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:00:15 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:00:15 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:00:49 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:00:51 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:00:52 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:00:52 PM"}
+{"level":"info","message":"2017-01-24T17:31:02.592Z '127.0.0.1: POST /check_access --> 200'","timestamp":"11:01:02 PM"}
+{"level":"info","message":"2017-01-24T17:31:02.705Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"11:01:02 PM"}
+{"level":"info","message":"2017-01-24T17:31:02.723Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"11:01:02 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:01:47 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:02:47 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:03:07 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:03:09 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:03:10 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:03:10 PM"}
+{"level":"info","message":"2017-01-24T17:33:15.290Z '127.0.0.1: POST /check_access --> 200'","timestamp":"11:03:15 PM"}
+{"level":"info","message":"2017-01-24T17:33:15.393Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"11:03:15 PM"}
+{"level":"info","message":"2017-01-24T17:33:15.402Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"11:03:15 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:04:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:05:05 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:06:06 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:06:08 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:06:08 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:06:08 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:06:22 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:06:24 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:06:24 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:06:24 PM"}
+{"level":"info","message":"2017-01-24T17:36:29.260Z '127.0.0.1: POST /check_access --> 200'","timestamp":"11:06:29 PM"}
+{"level":"info","message":"2017-01-24T17:36:29.372Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"11:06:29 PM"}
+{"level":"info","message":"2017-01-24T17:36:29.381Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"11:06:29 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:07:05 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:07:08 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:07:08 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:07:08 PM"}
+{"level":"info","message":"2017-01-24T17:37:13.624Z '127.0.0.1: POST /check_access --> 200'","timestamp":"11:07:13 PM"}
+{"level":"info","message":"2017-01-24T17:37:13.728Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"11:07:13 PM"}
+{"level":"info","message":"2017-01-24T17:37:13.743Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"11:07:13 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:08:03 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:09:24 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:09:27 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:09:28 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:09:28 PM"}
+{"level":"info","message":"2017-01-24T17:39:32.899Z '127.0.0.1: POST /check_access --> 200'","timestamp":"11:09:32 PM"}
+{"level":"info","message":"2017-01-24T17:39:33.005Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"11:09:33 PM"}
+{"level":"info","message":"2017-01-24T17:39:33.021Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"11:09:33 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:10:23 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:11:23 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:12:23 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:13:03 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:13:06 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:13:06 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:13:06 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:14:02 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:14:06 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:14:09 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:14:09 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:14:09 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:15:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:16:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:17:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:18:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:19:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:20:05 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:21:05 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:22:08 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:22:11 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:22:11 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:22:11 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:23:07 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:54:38 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:54:41 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:54:41 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:54:41 PM"}
+{"level":"info","message":"2017-01-24T18:24:56.622Z '127.0.0.1: POST /check_access --> 200'","timestamp":"11:54:56 PM"}
+{"level":"info","message":"2017-01-24T18:24:56.707Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"11:54:56 PM"}
+{"level":"info","message":"2017-01-24T18:24:56.720Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"11:54:56 PM"}
+{"level":"info","message":"2017-01-24T18:25:07.539Z '127.0.0.1: POST /asigned_roles --> 500'","timestamp":"11:55:07 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:55:38 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:55:41 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:55:41 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:55:41 PM"}
+{"level":"info","message":"2017-01-24T18:25:50.905Z '127.0.0.1: POST /asigned_roles --> 200'","timestamp":"11:55:50 PM"}
+{"level":"info","message":"2017-01-24T18:25:50.980Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"11:55:50 PM"}
+{"level":"info","message":"2017-01-24T18:25:50.989Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"11:55:50 PM"}
+{"level":"info","message":"2017-01-24T18:26:28.372Z '127.0.0.1: POST /asigned_roles --> 200'","timestamp":"11:56:28 PM"}
+{"level":"info","message":"2017-01-24T18:26:28.434Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"11:56:28 PM"}
+{"level":"info","message":"2017-01-24T18:26:28.440Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"11:56:28 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:56:37 PM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"11:57:31 PM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"11:57:34 PM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"11:57:34 PM"}
+{"level":"info","message":"Connected to Redis","timestamp":"11:57:34 PM"}
+{"level":"info","message":"2017-01-24T18:27:43.926Z '127.0.0.1: POST /check_access --> 200'","timestamp":"11:57:43 PM"}
+{"level":"info","message":"2017-01-24T18:27:44.025Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"11:57:44 PM"}
+{"level":"info","message":"2017-01-24T18:27:44.033Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"11:57:44 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:58:29 PM"}
+{"level":"info","message":"2017-01-24T18:28:55.334Z '127.0.0.1: POST /asigned_roles --> 200'","timestamp":"11:58:55 PM"}
+{"level":"info","message":"2017-01-24T18:28:55.395Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"11:58:55 PM"}
+{"level":"info","message":"2017-01-24T18:28:55.416Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"11:58:55 PM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"11:59:29 PM"}
+{"level":"info","message":"2017-01-24T18:29:53.823Z '127.0.0.1: GET / --> 304'","timestamp":"11:59:53 PM"}
+{"level":"info","message":"2017-01-24T18:29:53.892Z '127.0.0.1: GET /style/main.css --> 304'","timestamp":"11:59:53 PM"}
+{"level":"info","message":"2017-01-24T18:29:53.935Z '127.0.0.1: GET /img/name1.png --> 304'","timestamp":"11:59:53 PM"}
+{"level":"info","message":"2017-01-24T18:29:53.976Z '127.0.0.1: GET /script/script.js --> 304'","timestamp":"11:59:53 PM"}
+{"level":"info","message":"2017-01-24T18:29:54.015Z '127.0.0.1: GET /img/name2.png --> 304'","timestamp":"11:59:54 PM"}
+{"level":"info","message":"2017-01-24T18:29:54.063Z '127.0.0.1: GET /img/logo_small.png --> 304'","timestamp":"11:59:54 PM"}
+{"level":"info","message":"2017-01-24T18:29:54.110Z '127.0.0.1: GET /img/billboard2.jpg --> 304'","timestamp":"11:59:54 PM"}
+{"level":"info","message":"2017-01-24T18:29:54.154Z '127.0.0.1: GET /img/separator.png --> 304'","timestamp":"11:59:54 PM"}
+{"level":"info","message":"2017-01-24T18:29:54.183Z '127.0.0.1: GET /img/s1.png --> 304'","timestamp":"11:59:54 PM"}
+{"level":"info","message":"2017-01-24T18:29:54.211Z '127.0.0.1: GET /img/contact.png --> 304'","timestamp":"11:59:54 PM"}
+{"level":"info","message":"2017-01-24T18:29:54.235Z '127.0.0.1: GET /img/s3.png --> 304'","timestamp":"11:59:54 PM"}
+{"level":"info","message":"2017-01-24T18:30:08.447Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"12:00:08 AM"}
+{"level":"info","message":"2017-01-24T18:30:08.549Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"12:00:08 AM"}
+{"level":"info","message":"2017-01-24T18:30:08.592Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"12:00:08 AM"}
+{"level":"info","message":"2017-01-24T18:30:08.621Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"12:00:08 AM"}
+{"level":"info","message":"2017-01-24T18:30:08.670Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"12:00:08 AM"}
+{"level":"info","message":"2017-01-24T18:30:22.147Z '127.0.0.1: POST /check_access --> 200'","timestamp":"12:00:22 AM"}
+{"level":"info","message":"2017-01-24T18:30:22.224Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"12:00:22 AM"}
+{"level":"info","message":"2017-01-24T18:30:22.241Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"12:00:22 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:00:29 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:01:29 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:02:30 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:03:30 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:04:30 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:05:30 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:06:30 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:07:30 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:08:30 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:09:08 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:09:10 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:09:10 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:09:10 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:09:31 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:09:33 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:09:33 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:09:33 AM"}
+{"level":"info","message":"2017-01-24T18:39:50.751Z '127.0.0.1: POST /check_access --> 200'","timestamp":"12:09:50 AM"}
+{"level":"info","message":"2017-01-24T18:39:50.851Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"12:09:50 AM"}
+{"level":"info","message":"2017-01-24T18:39:50.866Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"12:09:50 AM"}
+{"level":"info","message":"2017-01-24T18:39:58.797Z '127.0.0.1: POST /asigned_roles --> 200'","timestamp":"12:09:58 AM"}
+{"level":"info","message":"2017-01-24T18:39:58.871Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"12:09:58 AM"}
+{"level":"info","message":"2017-01-24T18:39:58.892Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"12:09:58 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:10:29 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:11:29 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:12:29 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:13:29 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:14:29 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:15:29 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:16:29 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:17:29 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:18:29 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:19:29 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:20:29 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:21:29 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:22:29 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:23:29 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:24:29 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:25:29 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:25:32 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:25:33 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:25:33 AM"}
+{"level":"info","message":"2017-01-24T18:55:34.417Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"12:25:34 AM"}
+{"level":"info","message":"2017-01-24T18:55:34.883Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"12:25:34 AM"}
+{"level":"info","message":"2017-01-24T18:55:34.904Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"12:25:34 AM"}
+{"level":"info","message":"2017-01-24T18:55:34.933Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"12:25:34 AM"}
+{"level":"info","message":"2017-01-24T18:55:34.977Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"12:25:34 AM"}
+{"level":"info","message":"2017-01-24T18:55:42.563Z '127.0.0.1: POST /check_access --> 200'","timestamp":"12:25:42 AM"}
+{"level":"info","message":"2017-01-24T18:55:42.616Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"12:25:42 AM"}
+{"level":"info","message":"2017-01-24T18:55:42.630Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"12:25:42 AM"}
+{"level":"info","message":"2017-01-24T18:55:49.207Z '127.0.0.1: POST /asigned_roles --> 200'","timestamp":"12:25:49 AM"}
+{"level":"info","message":"2017-01-24T18:55:49.293Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"12:25:49 AM"}
+{"level":"info","message":"2017-01-24T18:55:49.317Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"12:25:49 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:26:27 AM"}
+{"level":"info","message":"2017-01-24T18:57:11.127Z '127.0.0.1: POST /asigned_roles --> 200'","timestamp":"12:27:11 AM"}
+{"level":"info","message":"2017-01-24T18:57:11.191Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"12:27:11 AM"}
+{"level":"info","message":"2017-01-24T18:57:11.202Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"12:27:11 AM"}
+{"level":"info","message":"2017-01-24T18:57:18.577Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"12:27:18 AM"}
+{"level":"info","message":"2017-01-24T18:57:18.690Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"12:27:18 AM"}
+{"level":"info","message":"2017-01-24T18:57:18.748Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"12:27:18 AM"}
+{"level":"info","message":"2017-01-24T18:57:18.774Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"12:27:18 AM"}
+{"level":"info","message":"2017-01-24T18:57:18.815Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"12:27:18 AM"}
+{"level":"info","message":"2017-01-24T18:57:25.795Z '127.0.0.1: POST /check_access --> 200'","timestamp":"12:27:25 AM"}
+{"level":"info","message":"2017-01-24T18:57:25.854Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"12:27:25 AM"}
+{"level":"info","message":"2017-01-24T18:57:25.869Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"12:27:25 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:27:27 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:28:14 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:28:16 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:28:16 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:28:16 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:28:21 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:28:24 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:28:24 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:28:24 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:29:08 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:29:10 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:29:10 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:29:10 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:29:20 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:29:23 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:29:23 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:29:23 AM"}
+{"level":"info","message":"2017-01-24T18:59:29.797Z '127.0.0.1: POST /check_access --> 200'","timestamp":"12:29:29 AM"}
+{"level":"info","message":"2017-01-24T18:59:29.910Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"12:29:29 AM"}
+{"level":"info","message":"2017-01-24T18:59:29.920Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"12:29:29 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:30:19 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:30:33 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:30:36 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:30:36 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:30:36 AM"}
+{"level":"info","message":"2017-01-24T19:00:36.578Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"12:30:36 AM"}
+{"level":"info","message":"2017-01-24T19:00:36.676Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"12:30:36 AM"}
+{"level":"info","message":"2017-01-24T19:00:36.745Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"12:30:36 AM"}
+{"level":"info","message":"2017-01-24T19:00:36.762Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"12:30:36 AM"}
+{"level":"info","message":"2017-01-24T19:00:36.814Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"12:30:36 AM"}
+{"level":"info","message":"2017-01-24T19:00:43.686Z '127.0.0.1: POST /check_access --> 200'","timestamp":"12:30:43 AM"}
+{"level":"info","message":"2017-01-24T19:00:43.750Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"12:30:43 AM"}
+{"level":"info","message":"2017-01-24T19:00:43.761Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"12:30:43 AM"}
+{"level":"info","message":"2017-01-24T19:01:06.665Z '127.0.0.1: POST /asigned_roles --> 200'","timestamp":"12:31:06 AM"}
+{"level":"info","message":"2017-01-24T19:01:06.731Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"12:31:06 AM"}
+{"level":"info","message":"2017-01-24T19:01:06.751Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"12:31:06 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:31:31 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:31:49 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:31:51 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:31:51 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:31:51 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:32:20 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:32:22 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:32:22 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:32:22 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:33:19 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:33:21 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:33:21 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:33:21 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:34:17 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:35:17 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:36:17 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:37:16 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:37:19 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:37:19 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:37:19 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:38:14 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:38:29 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:38:31 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:38:31 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:38:31 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:38:39 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:38:42 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:38:42 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:38:42 AM"}
+{"level":"info","message":"2017-01-24T19:08:50.605Z '127.0.0.1: POST /check_access --> 200'","timestamp":"12:38:50 AM"}
+{"level":"info","message":"2017-01-24T19:08:50.723Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"12:38:50 AM"}
+{"level":"info","message":"2017-01-24T19:08:50.731Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"12:38:50 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:39:30 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:39:32 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:39:33 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:39:33 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:40:28 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:42:16 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:42:18 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:42:19 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:42:19 AM"}
+{"level":"info","message":"2017-01-24T19:12:20.777Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"12:42:20 AM"}
+{"level":"info","message":"2017-01-24T19:12:20.861Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"12:42:20 AM"}
+{"level":"info","message":"2017-01-24T19:12:20.937Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"12:42:20 AM"}
+{"level":"info","message":"2017-01-24T19:12:21.198Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"12:42:21 AM"}
+{"level":"info","message":"2017-01-24T19:12:21.229Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"12:42:21 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:43:15 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:43:31 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:43:34 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:43:34 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:43:34 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:44:30 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:44:36 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:44:38 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:44:38 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:44:38 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"12:45:16 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"12:45:18 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"12:45:18 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"12:45:18 AM"}
+{"level":"info","message":"2017-01-24T19:15:18.958Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"12:45:18 AM"}
+{"level":"info","message":"2017-01-24T19:15:19.074Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"12:45:19 AM"}
+{"level":"info","message":"2017-01-24T19:15:19.096Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"12:45:19 AM"}
+{"level":"info","message":"2017-01-24T19:15:19.130Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"12:45:19 AM"}
+{"level":"info","message":"2017-01-24T19:15:19.167Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"12:45:19 AM"}
+{"level":"info","message":"2017-01-24T19:15:51.765Z '127.0.0.1: POST /loggedin.html --> 200'","timestamp":"12:45:51 AM"}
+{"level":"info","message":"2017-01-24T19:15:51.823Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"12:45:51 AM"}
+{"level":"info","message":"2017-01-24T19:15:51.839Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"12:45:51 AM"}
+{"level":"info","message":"2017-01-24T19:15:54.347Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"12:45:54 AM"}
+{"level":"info","message":"2017-01-24T19:15:54.440Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"12:45:54 AM"}
+{"level":"info","message":"2017-01-24T19:15:54.484Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"12:45:54 AM"}
+{"level":"info","message":"2017-01-24T19:15:54.552Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"12:45:54 AM"}
+{"level":"info","message":"2017-01-24T19:15:54.577Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"12:45:54 AM"}
+{"level":"info","message":"2017-01-24T19:16:04.669Z '127.0.0.1: POST /check_access --> 200'","timestamp":"12:46:04 AM"}
+{"level":"info","message":"2017-01-24T19:16:04.725Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"12:46:04 AM"}
+{"level":"info","message":"2017-01-24T19:16:04.738Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"12:46:04 AM"}
+{"level":"info","message":"2017-01-24T19:16:06.924Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"12:46:06 AM"}
+{"level":"info","message":"2017-01-24T19:16:07.016Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"12:46:07 AM"}
+{"level":"info","message":"2017-01-24T19:16:07.073Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"12:46:07 AM"}
+{"level":"info","message":"2017-01-24T19:16:07.125Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"12:46:07 AM"}
+{"level":"info","message":"2017-01-24T19:16:07.168Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"12:46:07 AM"}
+{"level":"info","message":"2017-01-24T19:16:13.311Z '127.0.0.1: POST /check_access --> 200'","timestamp":"12:46:13 AM"}
+{"level":"info","message":"2017-01-24T19:16:13.362Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"12:46:13 AM"}
+{"level":"info","message":"2017-01-24T19:16:13.382Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"12:46:13 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:46:14 AM"}
+{"level":"info","message":"2017-01-24T19:16:27.382Z '127.0.0.1: POST /asigned_roles --> 200'","timestamp":"12:46:27 AM"}
+{"level":"info","message":"2017-01-24T19:16:27.442Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"12:46:27 AM"}
+{"level":"info","message":"2017-01-24T19:16:27.456Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"12:46:27 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:47:14 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:48:14 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:49:14 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:50:14 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:51:14 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:52:14 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:53:14 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:54:14 AM"}
+{"level":"info","message":"2017-01-24T19:24:32.938Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"12:54:32 AM"}
+{"level":"info","message":"2017-01-24T19:24:32.984Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"12:54:33 AM"}
+{"level":"info","message":"2017-01-24T19:24:33.017Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"12:54:33 AM"}
+{"level":"info","message":"2017-01-24T19:24:33.041Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"12:54:33 AM"}
+{"level":"info","message":"2017-01-24T19:24:33.077Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"12:54:33 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:55:14 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:56:14 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:57:14 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:58:14 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"12:59:14 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:00:14 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:01:14 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:02:14 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:03:17 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:03:20 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:03:20 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:03:20 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:04:16 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:04:45 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:04:47 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:04:47 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:04:47 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:05:03 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:05:05 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:05:06 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:05:06 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:06:01 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:06:41 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:06:44 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:06:44 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:06:44 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:06:57 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:07:00 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:07:00 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:07:00 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:07:56 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:08:59 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:09:02 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:09:02 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:09:02 AM"}
+{"level":"info","message":"2017-01-24T19:39:02.598Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"1:09:02 AM"}
+{"level":"info","message":"2017-01-24T19:39:02.718Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"1:09:02 AM"}
+{"level":"info","message":"2017-01-24T19:39:02.749Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"1:09:02 AM"}
+{"level":"info","message":"2017-01-24T19:39:02.806Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"1:09:02 AM"}
+{"level":"info","message":"2017-01-24T19:39:02.834Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"1:09:02 AM"}
+{"level":"info","message":"2017-01-24T19:39:14.166Z '127.0.0.1: POST /loggedin.html --> 500'","timestamp":"1:09:14 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:09:42 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:09:44 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:09:45 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:09:45 AM"}
+{"level":"info","message":"2017-01-24T19:39:50.011Z '127.0.0.1: POST /loggedin.html --> 200'","timestamp":"1:09:50 AM"}
+{"level":"info","message":"2017-01-24T19:39:50.139Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"1:09:50 AM"}
+{"level":"info","message":"2017-01-24T19:39:50.162Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"1:09:50 AM"}
+{"level":"info","message":"2017-01-24T19:39:50.199Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"1:09:50 AM"}
+{"level":"info","message":"2017-01-24T19:39:50.235Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"1:09:50 AM"}
+{"level":"info","message":"2017-01-24T19:40:12.129Z '127.0.0.1: POST /check_access --> 200'","timestamp":"1:10:12 AM"}
+{"level":"info","message":"2017-01-24T19:40:12.197Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"1:10:12 AM"}
+{"level":"info","message":"2017-01-24T19:40:12.209Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"1:10:12 AM"}
+{"level":"info","message":"2017-01-24T19:40:35.746Z '127.0.0.1: POST /asigned_roles --> 200'","timestamp":"1:10:35 AM"}
+{"level":"info","message":"2017-01-24T19:40:35.796Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"1:10:35 AM"}
+{"level":"info","message":"2017-01-24T19:40:35.804Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"1:10:35 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:10:40 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:11:43 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:11:45 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:11:46 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:11:46 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:12:35 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:12:38 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:12:38 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:12:38 AM"}
+{"level":"info","message":"2017-01-24T19:42:44.090Z '127.0.0.1: POST /asigned_roles --> 200'","timestamp":"1:12:44 AM"}
+{"level":"info","message":"2017-01-24T19:42:44.218Z '127.0.0.1: GET /style/style2.css --> 304'","timestamp":"1:12:44 AM"}
+{"level":"info","message":"2017-01-24T19:42:44.234Z '127.0.0.1: GET /script/script2.js --> 304'","timestamp":"1:12:44 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:13:33 AM"}
+{"level":"info","message":"hapi-auth-jwt2 registered successfully","timestamp":"1:13:44 AM"}
+{"level":"info","message":"Server started as http://0.0.0.0:3001","timestamp":"1:13:47 AM"}
+{"level":"info","message":"Connected to MySQL","timestamp":"1:13:47 AM"}
+{"level":"info","message":"Connected to Redis","timestamp":"1:13:47 AM"}
+{"level":"info","message":"2017-01-24T19:43:50.036Z '127.0.0.1: GET /clickrbook.html --> 304'","timestamp":"1:13:50 AM"}
+{"level":"info","message":"2017-01-24T19:43:50.136Z '127.0.0.1: GET /style/clickerbook.css --> 304'","timestamp":"1:13:50 AM"}
+{"level":"info","message":"2017-01-24T19:43:50.156Z '127.0.0.1: GET /script/clickerbook.js --> 304'","timestamp":"1:13:50 AM"}
+{"level":"info","message":"2017-01-24T19:43:50.192Z '127.0.0.1: GET /img/clicklabs.png --> 304'","timestamp":"1:13:50 AM"}
+{"level":"info","message":"2017-01-24T19:43:50.244Z '127.0.0.1: GET /img/clicklabimg.jpg --> 304'","timestamp":"1:13:50 AM"}
+{"level":"info","message":"2017-01-24T19:43:57.573Z '127.0.0.1: POST /check_access --> 500'","timestamp":"1:13:57 AM"}
+{"0":{"1":1},"level":"info","message":"","timestamp":"1:14:43 AM"}
